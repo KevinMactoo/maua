@@ -43,20 +43,35 @@ window.dataLayer = window.dataLayer || [];
 <link href="//www.google-analytics.com" rel="preconnect" crossorigin>
 <link href="//static.klaviyo.com" rel="preconnect" crossorigin>
 <link href="//fast.a.klaviyo.com" rel="preconnect" crossorigin>
-<title>MAUA | Representing Body Acceptance</title>
+<title>METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002
+&ndash;  GOOD AMERICAN</title><meta name="description" content="Introducing the Metallic Foil Cut Out One Piece Cut out one piece monokini Super high cut on legs (90&#39;s throwback)  Medium cheeky coverage at butt  Adjustable support at top  Super high shine metallic foil  White gold color"><link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/favicon.ico?v=1211576588406898297" type="image/x-icon">
 
 
 
-<meta property="og:site_name" content="MAUA">
-<meta property="og:url" content="https://www.goodamerican.com/">
-<meta property="og:title" content="MAUA | Representing Body Acceptance">
-<meta property="og:type" content="website">
-<meta property="og:description" content="Made by women, for women. All bodies. All Sizes. No compromises. Shop the collection of premium denim, activewear, bodysuits, swim, sweats, shoes &amp; more from Maua. Designed for a curvier, sexier and stronger shape. All our products are available in a full size range that serve your curves.">
+<meta property="og:site_name" content="GOOD AMERICAN">
+<meta property="og:url" content="/fused/maua/products/ruched-cut-out-one-pc-metallic-mink-foil002">
+<meta property="og:title" content="METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002">
+<meta property="og:type" content="product">
+<meta property="og:description" content="Introducing the Metallic Foil Cut Out One Piece Cut out one piece monokini Super high cut on legs (90&#39;s throwback)  Medium cheeky coverage at butt  Adjustable support at top  Super high shine metallic foil  White gold color"><meta property="product:availability" content="instock">
+  <meta property="product:price:amount" content="85.00">
+  <meta property="product:price:currency" content="USD"><meta property="og:image" content="http://cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139">
+      <meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139">
+      <meta property="og:image:width" content="2667">
+      <meta property="og:image:height" content="4000">
+      <meta property="og:image:alt" content="model: Size 0 |"><meta property="og:image" content="http://cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_4_0147.jpg?v=1634688137">
+      <meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_4_0147.jpg?v=1634688137">
+      <meta property="og:image:width" content="2667">
+      <meta property="og:image:height" content="4000">
+      <meta property="og:image:alt" content="model: Size 0 |"><meta property="og:image" content="http://cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_1_1241.jpg?v=1634688136">
+      <meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_1_1241.jpg?v=1634688136">
+      <meta property="og:image:width" content="2667">
+      <meta property="og:image:height" content="4000">
+      <meta property="og:image:alt" content="model: Size 0 |">
 
 <meta name="twitter:site" content="@">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="MAUA | Representing Body Acceptance">
-<meta name="twitter:description" content="Made by women, for women. All bodies. All Sizes. No compromises. Shop the collection of premium denim, activewear, bodysuits, swim, sweats, shoes &amp; more from Maua. Designed for a curvier, sexier and stronger shape. All our products are available in a full size range that serve your curves."><script text="text/javascript">
+<meta name="twitter:title" content="METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002">
+<meta name="twitter:description" content="Introducing the Metallic Foil Cut Out One Piece Cut out one piece monokini Super high cut on legs (90&#39;s throwback)  Medium cheeky coverage at butt  Adjustable support at top  Super high shine metallic foil  White gold color"><script text="text/javascript">
   window.theme = {
     newsletter: {
       listId:"sD67rA"
@@ -68,16 +83,28 @@ window.dataLayer = window.dataLayer || [];
 </script>
 <!-- START Yotpo -->
 
+  <script type="text/javascript">
+    (function e() {
+      var e = document.createElement("script");
+      e.type = "text/javascript",
+        e.async = true,
+        e.src = "//staticw2.yotpo.com/YnWXdzbgK2eqlinw9XjQ6YqH8b6pzoUZWzdgcje9/widget.js";
+      var t = document.getElementsByTagName("script")[0];
+      t.parentNode.insertBefore(e, t)
+    })();
+  </script>
+
 <!-- END Yotpo -->
 
-<link type="text/css" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/layout.theme.css?v=7798285391823180649" rel="stylesheet"><link type="text/css" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/layout.theme.styleLiquid.scss.css?v=12981936419561696406" rel="stylesheet"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.collection.combo.css?v=3588949106742574506" as="style"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.collection.css?v=2380427472429611993" as="style"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.collection.makercollection.css?v=2380427472429611993" as="style"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.product.css?v=8001524470516543987" as="style">
+<link type="text/css" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/layout.theme.css?v=7798285391823180649" rel="stylesheet"><link type="text/css" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/layout.theme.styleLiquid.scss.css?v=12981936419561696406" rel="stylesheet"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.collection.combo.css?v=3588949106742574506" as="style"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.collection.css?v=2380427472429611993" as="style"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.collection.makercollection.css?v=2380427472429611993" as="style"><link type="text/css" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.product.css?v=8001524470516543987" rel="stylesheet">
     
-<script type="text/javascript" src="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/vendors@layout.theme.js?v=661664797957480897" defer="defer"></script><script type="text/javascript" src="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/layout.theme.js?v=5409368304519038570" defer="defer"></script><script type="text/javascript" src="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/vendors@template.404@template.article@template.index@template.page.flexible@template.search.js?v=13987702291032262832" defer="defer"></script><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.404.js?v=3942242290357699421" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.article.js?v=15351275701028036540" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.article.subcategory.js?v=6117223779889246987" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.blog.js?v=18263665896111687853" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.account@template.cart.js?v=11371999327537139646" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.cart.js?v=10321303592062289163" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/vendors@template.collection@template.collection.combo@template.collection.makercollection.js?v=4316656759331681401" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.collection.combo.js?v=2580852928984107763" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.collection.js?v=1406061707281857113" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.collection.makercollection.js?v=10450106692250853467" as="script"><script type="text/javascript" src="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.index.js?v=11881622199672653690" defer="defer"></script><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.page.flexible.js?v=12997106940035787330" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.page.utility.js?v=17775069133679485183" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/vendors@template.product@template.product.giftcard.js?v=15440690138591818418" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.product.giftcard.js?v=13389205395619345208" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.product.js?v=11150586813933247213" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.search.js?v=13625478566594968662" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.account.js?v=10970752346715758196" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.login.js?v=15933220716347715555" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.register.js?v=6013452870307468256" as="script">
+<script type="text/javascript" src="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/vendors@layout.theme.js?v=661664797957480897" defer="defer"></script><script type="text/javascript" src="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/layout.theme.js?v=5409368304519038570" defer="defer"></script><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/vendors@template.404@template.article@template.index@template.page.flexible@template.search.js?v=13987702291032262832" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.404.js?v=3942242290357699421" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.article.js?v=15351275701028036540" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.article.subcategory.js?v=6117223779889246987" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.blog.js?v=18263665896111687853" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.account@template.cart.js?v=11371999327537139646" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.cart.js?v=10321303592062289163" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/vendors@template.collection@template.collection.combo@template.collection.makercollection.js?v=4316656759331681401" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.collection.combo.js?v=2580852928984107763" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.collection.js?v=1406061707281857113" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.collection.makercollection.js?v=10450106692250853467" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.index.js?v=11881622199672653690" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.page.flexible.js?v=12997106940035787330" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.page.utility.js?v=17775069133679485183" as="script"><script type="text/javascript" src="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/vendors@template.product@template.product.giftcard.js?v=15440690138591818418" defer="defer"></script><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.product.giftcard.js?v=13389205395619345208" as="script"><script type="text/javascript" src="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.product.js?v=11150586813933247213" defer="defer"></script><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.search.js?v=13625478566594968662" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.account.js?v=10970752346715758196" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.login.js?v=15933220716347715555" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/1381/0415/t/625/assets/template.register.js?v=6013452870307468256" as="script">
     <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/13810415/digital_wallets/dialog">
 <meta name="shopify-checkout-api-token" content="a8620b68f18d9c04b3c59bdbfb193350">
 <meta id="in-context-paypal-metadata" data-shop-id="13810415" data-venmo-supported="true" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="USD">
 <meta id="amazon-payments-metadata" data-amazon-payments="true" data-amazon-payments-seller-id="A3H1LBK56T840J" data-amazon-payments-callback-url="https://www.goodamerican.com/13810415/amazon_payments/callback" data-amazon-payments-sandbox-mode="false" data-amazon-payments-client-id="amzn1.application-oa2-client.f6042ed2ccc9445aba88680837ff2c16" data-amazon-payments-region="US" data-amazon-payments-language="en-US" data-amazon-payments-widget-library-url="https://static-na.payments-amazon.com/OffAmazonPayments/us/js/Widgets.js">
-<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":13810415,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/13810415","merchantName":"MAUA","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover","jcb","elo","chinaUnionPay"],"total":{"type":"pending","label":"MAUA","amount":"1.00"}}</script>
+<link rel="alternate" type="application/json+oembed" href="https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002.oembed">
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":13810415,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/13810415","merchantName":"GOOD AMERICAN","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover","jcb","elo","chinaUnionPay"],"total":{"type":"pending","label":"GOOD AMERICAN","amount":"1.00"}}</script>
 <script id="shopify-features" type="application/json">{"accessToken":"a8620b68f18d9c04b3c59bdbfb193350","betas":["rich-media-storefront-analytics"],"domain":"www.goodamerican.com","predictiveSearch":true,"shopId":13810415,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
 <script>var Shopify = Shopify || {};
 Shopify.shop = "good-american.myshopify.com";
@@ -110,7 +137,7 @@ window.ShopifyPay.apiHost = "shop.app\/pay";</script>
     window.addEventListener('load', asyncLoad, false);
   }
 })();</script>
-<script id="__st">var __st={"a":13810415,"offset":-25200,"reqid":"08cd8099-6923-4292-9107-ccd6c26be90e","pageurl":"www.goodamerican.com\/","u":"edf7532b032f","p":"home"};</script>
+<script id="__st">var __st={"a":13810415,"offset":-25200,"reqid":"16684457-25f6-4886-b5ee-3fa875c32f0e","pageurl":"www.goodamerican.com\/products\/ruched-cut-out-one-pc-metallic-mink-foil002","u":"1d7c48b0b441","p":"product","rtyp":"product","rid":6620540043347};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
 <script integrity="sha256-pVJhp6mHZ0dJmJmDtYierarGeV2NSFSPthRwqW7blSQ=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-a55261a7a987674749989983b5889eadaac6795d8d48548fb61470a96edb9524.js" crossorigin="anonymous"></script>
@@ -191,21 +218,17 @@ window.ShopifyPay.apiHost = "shop.app\/pay";</script>
 <!-- START SEARCHSPRING   -->
 
   
-<script src="//cdn.searchspring.net/search/v3/lts/searchspring.catalog.js?5ojqb3" template="index" defer></script>
+<script src="//cdn.searchspring.net/search/v3/lts/searchspring.catalog.js?5ojqb3" template="product" defer></script>
 
 
 <!-- END SEARCHSPRING   -->
-<link rel="canonical" href="https://www.goodamerican.com/">
-<meta property="og:image" content="https://cdn.shopify.com/s/files/1/1381/0415/files/logo_04e9768a-db79-4f1e-9edc-3c9223c09836.png?height=628&pad_color=fff&v=1603989296&width=1200" />
-<meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/1381/0415/files/logo_04e9768a-db79-4f1e-9edc-3c9223c09836.png?height=628&pad_color=fff&v=1603989296&width=1200" />
-<meta property="og:image:width" content="1200" />
-<meta property="og:image:height" content="628" />
+<link rel="canonical" href="https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002">
 <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
-<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 13810415,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 13810415,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "product"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
 <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
 window.ShopifyAnalytics.meta.currency = 'USD';
-var meta = {"page":{"pageType":"home"},"evids":{"pv":"Page View","vprd":"Viewed Product","ps":"Performed Search"}};
+var meta = {"product":{"id":6620540043347,"gid":"gid:\/\/shopify\/Product\/6620540043347","vendor":"GOOD AMERICAN","type":"GOOD SWIM","variants":[{"id":39467668734035,"price":8500,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 0","public_title":"MINK FOIL002 \/ 0","sku":"GSW0277-MK02-0"},{"id":39467668766803,"price":8500,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 1","public_title":"MINK FOIL002 \/ 1","sku":"GSW0277-MK02-1"},{"id":39467668832339,"price":8500,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 2","public_title":"MINK FOIL002 \/ 2","sku":"GSW0277-MK02-2"},{"id":39467668897875,"price":8500,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 3","public_title":"MINK FOIL002 \/ 3","sku":"GSW0277-MK02-3"},{"id":39467668930643,"price":8500,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 4","public_title":"MINK FOIL002 \/ 4","sku":"GSW0277-MK02-4"},{"id":39467668963411,"price":8500,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 5","public_title":"MINK FOIL002 \/ 5","sku":"GSW0277-MK02-5"},{"id":39467668996179,"price":8500,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 6","public_title":"MINK FOIL002 \/ 6","sku":"GSW0277-MK02-6"},{"id":39467669028947,"price":8500,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 7","public_title":"MINK FOIL002 \/ 7","sku":"GSW0277-MK02-7"},{"id":39467669061715,"price":8500,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 8","public_title":"MINK FOIL002 \/ 8","sku":"GSW0277-MK02-8"}]},"page":{"pageType":"product","resourceType":"product","resourceId":6620540043347},"evids":{"pv":"Page View","vprd":"Viewed Product","ps":"Performed Search"}};
 for (var attr in meta) {
   window.ShopifyAnalytics.meta[attr] = meta[attr];
 }</script>
@@ -326,15 +349,15 @@ for (var attr in meta) {
       theme_id: 120601772115,
       app_name: "storefront",
       context_url: window.location.href,
-      source_url: "https://cdn.shopify.com/s/trekkie.storefront.992ff19bc337c3a78e9d7d337a6a28b17f3bb1b8.min.js"});
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.14090f34a9012f8b63942ff909e7123d74670c9e.min.js"});
 
       };
       scriptFallback.async = true;
-      scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.992ff19bc337c3a78e9d7d337a6a28b17f3bb1b8.min.js';
+      scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.14090f34a9012f8b63942ff909e7123d74670c9e.min.js';
       first.parentNode.insertBefore(scriptFallback, first);
     };
     script.async = true;
-    script.src = 'https://cdn.shopify.com/s/trekkie.storefront.992ff19bc337c3a78e9d7d337a6a28b17f3bb1b8.min.js';
+    script.src = 'https://cdn.shopify.com/s/trekkie.storefront.14090f34a9012f8b63942ff909e7123d74670c9e.min.js';
     first.parentNode.insertBefore(script, first);
   };
   trekkie.load(
@@ -500,13 +523,14 @@ for (var attr in meta) {
       })();
     
 
-    window.ShopifyAnalytics.lib.page(null,{"pageType":"home"});
+    window.ShopifyAnalytics.lib.page(null,{"pageType":"product","resourceType":"product","resourceId":6620540043347});
 
     var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
     var token = match? match[1]: undefined;
     if (!hasLoggedConversion(token)) {
       setCookieIfConversion(token);
-      
+      window.ShopifyAnalytics.lib.track("Viewed Product",{"currency":"USD","variantId":39467668734035,"productId":6620540043347,"productGid":"gid:\/\/shopify\/Product\/6620540043347","name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 0","price":"85.00","sku":"GSW0277-MK02-0","brand":"GOOD AMERICAN","variant":"MINK FOIL002 \/ 0","category":"GOOD SWIM","nonInteraction":true});
+      window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1",{"currency":"USD","variantId":39467668734035,"productId":6620540043347,"productGid":"gid:\/\/shopify\/Product\/6620540043347","name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 0","price":"85.00","sku":"GSW0277-MK02-0","brand":"GOOD AMERICAN","variant":"MINK FOIL002 \/ 0","category":"GOOD SWIM","nonInteraction":true,"referer":"https:\/\/www.goodamerican.com\/products\/ruched-cut-out-one-pc-metallic-mink-foil002"});
     }
   });
 
@@ -517,7 +541,7 @@ for (var attr in meta) {
       document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
     
 })();</script>
-</head><body style="visibility: hidden;" class="template-index  Body--has-promobar ">
+</head><body style="visibility: hidden;" class="template-product  Body--has-promobar ">
     <script>
   (function() {
     const configElement = document.getElementById("elevar-gtm-suite-config");
@@ -551,7 +575,7 @@ for (var attr in meta) {
       }
 
       const cartData = {
-  attributes:{},
+  attributes:{"geo_currency":"KES","geo_country":"KEN","flow_metafield_key":"flow_sejnromaob","shipping_configuration_key":"world","shopify_localization_method":"ssr","features":"global_checkout_blaze\\:false\\|global_checkout_initialize_endpoint\\:true\\|global_checkout_preload_assets\\:false\\|global_javascript_error_modal\\:false\\|global_inject_client_javascript\\:false\\|global_checkout_returning_customers\\:false\\|global_checkout_resource\\:true\\|global_shopify_js_cart_v2\\:true","_elevar__fbp":"fb.1.1635591417236.1603141092","_elevar__ga":"GA1.2.87426658.1635591417"},
   cartTotal: "0.0",
   currencyCode:"USD",
   items: []
@@ -565,7 +589,107 @@ for (var attr in meta) {
 
       if (config.event_config.cart_reconcile) {
         window.ElevarGtmSuite.handlers.cartReconcile(cartData);
-      }};
+      }const product ={
+    currencyCode:"USD",
+    items: [{id:"GSW0277-MK02-0",name:"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002",
+          brand:"GOOD AMERICAN",
+          category:"GOOD SWIM",
+          variant:"MINK FOIL002 \/ 0",
+          price: "85.0",
+          productId: "6620540043347",
+          variantId: "39467668734035",
+          compareAtPrice: "85.0",
+          image:"\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139",
+          inventory: "6"
+        },{id:"GSW0277-MK02-1",name:"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002",
+          brand:"GOOD AMERICAN",
+          category:"GOOD SWIM",
+          variant:"MINK FOIL002 \/ 1",
+          price: "85.0",
+          productId: "6620540043347",
+          variantId: "39467668766803",
+          compareAtPrice: "85.0",
+          image:"\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139",
+          inventory: "19"
+        },{id:"GSW0277-MK02-2",name:"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002",
+          brand:"GOOD AMERICAN",
+          category:"GOOD SWIM",
+          variant:"MINK FOIL002 \/ 2",
+          price: "85.0",
+          productId: "6620540043347",
+          variantId: "39467668832339",
+          compareAtPrice: "85.0",
+          image:"\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139",
+          inventory: "28"
+        },{id:"GSW0277-MK02-3",name:"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002",
+          brand:"GOOD AMERICAN",
+          category:"GOOD SWIM",
+          variant:"MINK FOIL002 \/ 3",
+          price: "85.0",
+          productId: "6620540043347",
+          variantId: "39467668897875",
+          compareAtPrice: "85.0",
+          image:"\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139",
+          inventory: "21"
+        },{id:"GSW0277-MK02-4",name:"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002",
+          brand:"GOOD AMERICAN",
+          category:"GOOD SWIM",
+          variant:"MINK FOIL002 \/ 4",
+          price: "85.0",
+          productId: "6620540043347",
+          variantId: "39467668930643",
+          compareAtPrice: "85.0",
+          image:"\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139",
+          inventory: "11"
+        },{id:"GSW0277-MK02-5",name:"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002",
+          brand:"GOOD AMERICAN",
+          category:"GOOD SWIM",
+          variant:"MINK FOIL002 \/ 5",
+          price: "85.0",
+          productId: "6620540043347",
+          variantId: "39467668963411",
+          compareAtPrice: "85.0",
+          image:"\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139",
+          inventory: "5"
+        },{id:"GSW0277-MK02-6",name:"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002",
+          brand:"GOOD AMERICAN",
+          category:"GOOD SWIM",
+          variant:"MINK FOIL002 \/ 6",
+          price: "85.0",
+          productId: "6620540043347",
+          variantId: "39467668996179",
+          compareAtPrice: "85.0",
+          image:"\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139",
+          inventory: "3"
+        },{id:"GSW0277-MK02-7",name:"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002",
+          brand:"GOOD AMERICAN",
+          category:"GOOD SWIM",
+          variant:"MINK FOIL002 \/ 7",
+          price: "85.0",
+          productId: "6620540043347",
+          variantId: "39467669028947",
+          compareAtPrice: "85.0",
+          image:"\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139",
+          inventory: "0"
+        },{id:"GSW0277-MK02-8",name:"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002",
+          brand:"GOOD AMERICAN",
+          category:"GOOD SWIM",
+          variant:"MINK FOIL002 \/ 8",
+          price: "85.0",
+          productId: "6620540043347",
+          variantId: "39467669061715",
+          compareAtPrice: "85.0",
+          image:"\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139",
+          inventory: "0"
+        },]
+  };
+
+        if (config.event_config.product_view) {
+          window.ElevarGtmSuite.handlers.productView(product);
+        }
+        if (config.event_config.product_add_to_cart) {
+          window.ElevarGtmSuite.handlers.productAddToCartForm(product);
+        }};
 
     document.body.appendChild(script);
   })();
@@ -684,7 +808,7 @@ for (var attr in meta) {
 
         
 <li class="good-nav__main-menu-item js-hasNestedList inline-block relative" data-link="new" role="menuitem">
-  <a href="/fused/maua/collections/new-arrivals"
+  <a href="/collections/new-arrivals"
     title="new"
     id="main-menu_new"
     class="good-nav__main-menu__link uppercase lg:pr-12"
@@ -724,7 +848,7 @@ for (var attr in meta) {
         Sherpa Essentials
       </a>
     </li><li class="header__subnav__item js-link pb-24 lg:pb-12">
-      <a class="good-p text-black w-full" title="shop-all" href="/fused/maua/collections/new-arrivals">
+      <a class="good-p text-black w-full" title="shop-all" href="/collections/new-arrivals">
         Shop all
       </a>
     </li></ul>
@@ -1882,7 +2006,7 @@ for (var attr in meta) {
         Sherpa Essentials
       </a>
     </li><li class="header__subnav__item js-link pb-24 lg:pb-12">
-      <a class="good-p text-black w-full" title="shop-all" href="/fused/maua/collections/new-arrivals">
+      <a class="good-p text-black w-full" title="shop-all" href="/collections/new-arrivals">
         Shop all
       </a>
     </li></ul>
@@ -3019,7 +3143,7 @@ for (var attr in meta) {
 
 <li class="p-24 w-full good-border relative">
   
-    <a href="http://localhost:8080/fused/maua/account/login.php" class="w-full good-link text-black uppercase">
+    <a href="/account/login" class="w-full good-link text-black uppercase">
       Account
     </a>
   
@@ -3076,7 +3200,7 @@ for (var attr in meta) {
 
 <li class="p-24 w-full good-border relative">
   
-    <a href="mailto:help@maua.com" class="w-full good-link text-black uppercase">
+    <a href="mailto:help@goodamerican.com" class="w-full good-link text-black uppercase">
       Contact Us
     </a>
   
@@ -3103,16 +3227,30 @@ for (var attr in meta) {
     </aside>
   </nav>
 
-  <a aria-label="Maua homepage" class="good-nav__logo block" href="/">
+  <a aria-label="Good American homepage" class="good-nav__logo block" href="/">
     <span class="good-branding good-branding--regular hidden xl:block">
-    
+    <svg xmlns="http://www.w3.org/2000/svg" width="300" height="18" viewBox="0 0 300 18">
+      <g fill="none" fill-rule="evenodd">
+        <g fill="#FFF" fill-rule="nonzero">
+          <g>
+            <g>
+              <path
+                d="M610.818 26.01c5.084 0 9.206 4.028 9.206 8.995S615.902 44 610.818 44s-9.206-4.028-9.206-8.995 4.122-8.995 9.206-8.995zm-25.86 0c5.084 0 9.206 4.028 9.206 8.995S590.042 44 584.958 44s-9.206-4.028-9.206-8.995 4.122-8.995 9.206-8.995zm208.553 0c3.119 0 5.875 1.516 7.54 3.836l-2.647 1.814c-.006-.005-.01-.015-.016-.02l-.031.02c-1.076-1.501-2.85-2.481-4.862-2.492-3.294.01-5.958 2.618-5.958 5.837s2.669 5.827 5.958 5.837c2.012-.01 3.786-.996 4.862-2.492l.031.02c.005-.004.01-.015.016-.02l2.648 1.815C799.386 42.484 796.63 44 793.51 44h-.047c-5.084 0-9.206-4.028-9.206-8.995s4.122-8.995 9.206-8.995zM559.206 26c2.54 0 4.841 1.01 6.507 2.638l-2.209 2.158-.077.075c-1.081-1.056-2.576-1.708-4.226-1.708-3.3 0-5.974 2.613-5.974 5.837 0 3.224 2.674 5.837 5.974 5.837 2.767 0 5.09-1.84 5.767-4.336h-5.001v-3.007h8.316c.083.49.13.99.13 1.5 0 4.968-4.123 8.996-9.207 8.996-5.084 0-9.206-4.028-9.206-8.995S554.122 26 559.206 26zm138.394.349l5.891 13.224 5.891-13.224h4.215V43.66h-3.496V32.97l-4.79 10.692h-3.64l-4.795-10.692V43.66h-3.496V26.35h4.22zm77.865 0V43.66h-3.496V26.35h3.496zm-17.983 0c3 0 5.43 2.375 5.43 5.306 0 2.531-1.814 4.644-4.235 5.174l5.332 6.832h-4.35l-5.218-6.7h-2.762v6.7h-3.496V26.35zm-79.779 0l7.712 17.312h-3.641l-1.862-4.158h-7.727l-1.862 4.158h-3.641l7.711-17.312h3.31zm59.407 0v2.996h-8.943v4.16h8.756v3h-8.756v4.16h8.943v2.996h-12.44V26.35h12.44zm100.684 0l8.71 12.148V26.349H850V43.66h-3.791l-8.808-12.29v12.29h-3.496V26.35h3.889zm-19.488 0l7.711 17.312h-3.641l-1.862-4.158h-7.727l-1.862 4.158h-3.641l7.712-17.312h3.31zm-182.626 0c4.893 0 8.86 3.876 8.86 8.656 0 4.78-3.967 8.656-8.86 8.656h-6.94V26.35zm-50.722 2.82c-3.3 0-5.974 2.612-5.974 5.836s2.674 5.837 5.974 5.837c3.3 0 5.974-2.613 5.974-5.837 0-3.224-2.674-5.837-5.974-5.837zm25.86 0c-3.3 0-5.974 2.612-5.974 5.836s2.674 5.837 5.974 5.837c3.3 0 5.974-2.613 5.974-5.837 0-3.224-2.674-5.837-5.974-5.837zm24.433.176h-3.015v11.32h3.015c3.196 0 5.793-2.537 5.793-5.66 0-3.128-2.597-5.66-5.793-5.66zm40.797 1.542l-2.519 5.619h5.038l-2.519-5.62zm140.603 0l-2.52 5.619h5.038l-2.518-5.62zm-59.438-1.542h-5.539v4.62h5.54c1.308 0 2.363-1.032 2.363-2.31 0-1.279-1.06-2.31-2.364-2.31z"
+                transform="translate(-550 -62) translate(0 36)" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </svg>
   
 </span>
     <span class="good-branding good-branding--stacked block">
-   
+    <svg xmlns="http://www.w3.org/2000/svg" width="150" height="40" viewBox="0 0 150 40">
+      <path fill="#FFF" d="M104.046 24.84c2.558 0 4.817 1.281 6.184 3.235l-2.175 1.527c-.007-.007-.01-.01-.014-.017l-.025.017c-.882-1.262-2.336-2.091-3.988-2.098-2.699.007-4.884 2.204-4.888 4.916 0 2.71 2.19 4.91 4.888 4.917 1.652-.007 3.106-.836 3.988-2.098l.025.017c.007-.007.01-.01.014-.017l2.175 1.527C108.867 38.72 106.604 40 104.046 40h-.039c-4.171 0-7.551-3.393-7.551-7.58 0-4.186 3.38-7.58 7.551-7.58zm35.943.287l7.144 10.238V25.127H150v14.59h-3.11l-7.224-10.358v10.359h-2.868V25.127h3.191zm-65.502 0c2.46 0 4.456 2.003 4.456 4.472 0 2.13-1.49 3.911-3.476 4.36l4.375 5.759h-3.57l-4.28-5.647h-2.266v5.647h-2.868V25.127zm-65.446 0l6.329 14.59h-2.987l-1.529-3.505H4.515l-1.528 3.506H0l6.328-14.591h2.713zm48.73 0v2.525h-7.333v3.506h7.182v2.525h-7.182v3.506h7.334v2.529H47.57V25.127h10.2zm-32.408 0l4.832 11.145 4.835-11.145h3.457v14.59H35.62v-9.014l-3.932 9.015h-2.987l-3.932-9.015v9.015h-2.867V25.127h3.461zm98.638 0l6.328 14.59h-2.986l-1.529-3.505h-6.339l-1.529 3.506h-2.986l6.328-14.591h2.713zm-34.763 0v14.59h-2.867v-14.59h2.867zm33.407 3.82l-2.067 4.736h4.133l-2.066-4.737zm-114.96 0l-2.066 4.736H9.75l-2.066-4.737zm66.584-1.295h-4.543v3.887h4.543c1.068 0 1.936-.868 1.936-1.944l-.006-.151c-.077-1.002-.91-1.792-1.93-1.792zM64.905.01c4.17 0 7.551 3.393 7.551 7.58 0 4.186-3.38 7.579-7.551 7.579s-7.552-3.393-7.552-7.58c0-4.186 3.38-7.58 7.552-7.58zM86.118.007c4.17 0 7.551 3.397 7.551 7.58 0 4.186-3.38 7.58-7.551 7.58s-7.551-3.394-7.551-7.58c0-4.187 3.38-7.58 7.55-7.58zM43.779 0c2.084 0 3.971.85 5.338 2.222l-1.813 1.82-.064.063c-.885-.888-2.111-1.439-3.464-1.439-2.71 0-4.902 2.201-4.902 4.92 0 2.72 2.196 4.92 4.902 4.92 2.27 0 4.174-1.551 4.73-3.653h-4.101V6.327h6.817c.066.41.105.833.105 1.263 0 4.187-3.384 7.58-7.548 7.57-4.17 0-7.551-3.394-7.551-7.58 0-4.187 3.38-7.58 7.551-7.58zm62.733.293c4.013 0 7.267 3.27 7.267 7.297 0 4.028-3.254 7.294-7.267 7.294h-5.692V.293zM64.905 2.666c-2.71 0-4.902 2.205-4.902 4.92 0 2.72 2.196 4.92 4.902 4.92 2.705 0 4.898-2.2 4.902-4.92 0-2.719-2.197-4.92-4.902-4.92zm21.213 0c-2.71 0-4.902 2.205-4.902 4.92 0 2.72 2.196 4.92 4.902 4.92s4.898-2.2 4.902-4.92c0-2.719-2.196-4.92-4.902-4.92zm20.043.156h-2.474v9.537h2.474c2.625 0 4.75-2.134 4.75-4.769 0-2.635-2.125-4.768-4.75-4.768z"/>
+    </svg>
   
 </span>
-    <span hidden>MAUA</span>
+    <span hidden>GOOD AMERICAN</span>
   </a>
 
   <nav aria-label="Secondary Menu" class="good-nav__secondary block text-right" role="navigation">
@@ -3131,7 +3269,7 @@ for (var attr in meta) {
 
         
             <li class="good-nav__main-menu__link xl:inline-block hidden" role="menuitem">
-              <button type="button" class="js-currencyselector-open flow-flag good-nav__secondary-menu__link active"  aria-current="page" >
+              <button type="button" class="js-currencyselector-open flow-flag good-nav__secondary-menu__link" >
                 <span class="js-label">USD</span>
               </button>
             </li>
@@ -3143,7 +3281,7 @@ for (var attr in meta) {
         
             <li class="good-nav__main-menu__link xl:inline-block hidden" role="menuitem">
               
-                <a href="/fused/maua/account/login.php" aria-label="Your Account" class="good-nav__secondary-menu__link xl:pr-12 xl:pl-6" >Account</a>
+                <a href="/account/login" aria-label="Your Account" class="good-nav__secondary-menu__link xl:pr-12 xl:pl-6" >Account</a>
               
             </li>
         
@@ -3168,1176 +3306,1500 @@ for (var attr in meta) {
 </header>
     <main id="main-content">
       <div class="PageDimmer hidden absolute top-0 w-full h-full bg-black opacity-50 z-2"></div>
-      <!-- BEGIN content_for_index --><section id="shopify-section-1612979979af1d876a" class="shopify-section Hero">
+      <div id="shopify-section-product" class="shopify-section"><div
+  class="js-maker-enhance-static-mount"
+  id="js-maker-static-enhance-v1-d3edb438-cab8-11ea-87d0-0242ac130003-microsite"
+  style="height: auto; width: 100%;"
+  data-microsite
+> </div>
+<div class="Product js-product" data-id="6620540043347" id="ruched-cut-out-one-pc-metallic-mink-foil002">
+  
+
+  
+<div id="js-img-gallery"></div><script id="productImages" type="application/json">
+{
+  "posterVideoImage": [],
+  "gallery": [{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_5_0156_768x.progressive.jpg?v=1634688139",
+          "alt": "model: Size 0 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_4_0147_768x.progressive.jpg?v=1634688137",
+          "alt": "model: Size 0 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_1_1241_768x.progressive.jpg?v=1634688136",
+          "alt": "model: Size 0 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_2_0134_768x.progressive.jpg?v=1634688137",
+          "alt": "model: Size 0 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_3_0140_768x.progressive.jpg?v=1634688137",
+          "alt": "model: Size 0 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-B_5_3542_768x.progressive.jpg?v=1634688136",
+          "alt": "model: Size 8 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-B_2_3517_768x.progressive.jpg?v=1634688138",
+          "alt": "model: Size 8 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-B_1_3506_768x.progressive.jpg?v=1634688138",
+          "alt": "model: Size 8 |"
+        }],
+  "zoomGallery": [{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_5_0156_800x@2x.progressive.jpg?v=1634688139",
+          "alt": "model: Size 0 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_4_0147_800x@2x.progressive.jpg?v=1634688137",
+          "alt": "model: Size 0 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_1_1241_800x@2x.progressive.jpg?v=1634688136",
+          "alt": "model: Size 0 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_2_0134_800x@2x.progressive.jpg?v=1634688137",
+          "alt": "model: Size 0 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_3_0140_800x@2x.progressive.jpg?v=1634688137",
+          "alt": "model: Size 0 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-B_5_3542_800x@2x.progressive.jpg?v=1634688136",
+          "alt": "model: Size 8 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-B_2_3517_800x@2x.progressive.jpg?v=1634688138",
+          "alt": "model: Size 8 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-B_1_3506_800x@2x.progressive.jpg?v=1634688138",
+          "alt": "model: Size 8 |"
+        }],
+  "images": [{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_5_0156_768x.progressive.jpg?v=1634688139",
+          "alt": "model: Size 0 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_4_0147_768x.progressive.jpg?v=1634688137",
+          "alt": "model: Size 0 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_1_1241_768x.progressive.jpg?v=1634688136",
+          "alt": "model: Size 0 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_2_0134_768x.progressive.jpg?v=1634688137",
+          "alt": "model: Size 0 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_3_0140_768x.progressive.jpg?v=1634688137",
+          "alt": "model: Size 0 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-B_5_3542_768x.progressive.jpg?v=1634688136",
+          "alt": "model: Size 8 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-B_2_3517_768x.progressive.jpg?v=1634688138",
+          "alt": "model: Size 8 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-B_1_3506_768x.progressive.jpg?v=1634688138",
+          "alt": "model: Size 8 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-B_3_3526_768x.progressive.jpg?v=1634688137",
+          "alt": "model: Size 8 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-B_4_3539_768x.progressive.jpg?v=1634688136",
+          "alt": "model: Size 8 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-C_5_1501_768x.progressive.jpg?v=1634688139",
+          "alt": "model: Size 16 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-C_1_1469_768x.progressive.jpg?v=1634688138",
+          "alt": "model: Size 16 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-C_2_1480_768x.progressive.jpg?v=1634688139",
+          "alt": "model: Size 16 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-C_3_1487_768x.progressive.jpg?v=1634688139",
+          "alt": "model: Size 16 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-C_4_1492_768x.progressive.jpg?v=1634688138",
+          "alt": "model: Size 16 |"
+        }],
+  "zoomImages": [{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_5_0156_800x@2x.progressive.jpg?v=1634688139",
+          "alt": "model: Size 0 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_4_0147_800x@2x.progressive.jpg?v=1634688137",
+          "alt": "model: Size 0 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_1_1241_800x@2x.progressive.jpg?v=1634688136",
+          "alt": "model: Size 0 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_2_0134_800x@2x.progressive.jpg?v=1634688137",
+          "alt": "model: Size 0 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_3_0140_800x@2x.progressive.jpg?v=1634688137",
+          "alt": "model: Size 0 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-B_5_3542_800x@2x.progressive.jpg?v=1634688136",
+          "alt": "model: Size 8 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-B_2_3517_800x@2x.progressive.jpg?v=1634688138",
+          "alt": "model: Size 8 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-B_1_3506_800x@2x.progressive.jpg?v=1634688138",
+          "alt": "model: Size 8 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-B_3_3526_800x@2x.progressive.jpg?v=1634688137",
+          "alt": "model: Size 8 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-B_4_3539_800x@2x.progressive.jpg?v=1634688136",
+          "alt": "model: Size 8 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-C_5_1501_800x@2x.progressive.jpg?v=1634688139",
+          "alt": "model: Size 16 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-C_1_1469_800x@2x.progressive.jpg?v=1634688138",
+          "alt": "model: Size 16 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-C_2_1480_800x@2x.progressive.jpg?v=1634688139",
+          "alt": "model: Size 16 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-C_3_1487_800x@2x.progressive.jpg?v=1634688139",
+          "alt": "model: Size 16 |"
+        },{
+          "src": "//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-C_4_1492_800x@2x.progressive.jpg?v=1634688138",
+          "alt": "model: Size 16 |"
+        }],
+  "models": [{
+        "key": "size-0",
+        "label": "Size 0","image": "https://cdn.accentuate.io/13810415/12389997314131/GWRE941T-B475-A-6-v1603999601161.jpg?2667x4000"},{
+        "key": "size-8",
+        "label": "Size 8","image": "https://cdn.accentuate.io/13810415/12389997314131/GWRE941T-B475-B-1-v1603999601909.jpg?2667x4000"},{
+        "key": "size-16",
+        "label": "Size 16","image": "https://cdn.accentuate.io/13810415/12389997314131/GWRE941T-B475-C-1-v1603999602242.jpg?2667x4000"}],
+  "videoSources":  []
+}
+</script>
+<div class="Product__formContainer" data-product-form-container>
+    <div id="modelSelector" class="js-model-selector-outer-container"></div>
+
+<div class="Product__details mb-24 lg:mb-12 flex flex-col md:justify-between md:flex-row md:flex-no-wrap good-header-xxs">
+  <h1 class="lg:pr-12 mt-0 mb-6 lg:mb-0">
+    metallic foil cut out onepiece 
+  </h1>
+      <span class="Product__price opacity-0">
+        <span class="visually-hidden">Price: </span>
+        <span
+          class="flow-price"
+          flow-variant="39467668734035"
+          flow-selector="prices.item.label"
+          flow-default="<span class='bfx-price bfx-hide-onload bfx-make-visible'>$85.00</span>"
+        >
+          <span class='bfx-price bfx-hide-onload bfx-make-visible'>$85.00</span>
+        </span>
+      </span>
+    
+</div>
+<div class="yotpo bottomLine"
+     data-yotpo-stars
+     data-appkey="YnWXdzbgK2eqlinw9XjQ6YqH8b6pzoUZWzdgcje9"
+     data-domain="good-american.myshopify.com"
+     data-product-id="6620540043347"
+     data-product-models="6620540043347"
+     data-name="METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002"
+     data-url="/fused/maua/products/ruched-cut-out-one-pc-metallic-mink-foil002"
+     data-image-url="//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_5_0156_large.jpg%3Fv=1634688139"
+     data-description="&lt;p&gt;Introducing the Metallic Foil Cut Out One Piece&lt;/p&gt;
+&lt;ul type=&quot;disc&quot;&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Cut out one piece monokini&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Super high cut on legs (90&#39;s throwback) &lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Medium cheeky coverage at butt &lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Adjustable support at top &lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Super high shine metallic foil &lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;White gold color&lt;/li&gt;
+&lt;/ul&gt;"
+     data-bread-crumbs="Apparel Size:0 | XS;Apparel Size:1 | S;Apparel Size:3 | L;Apparel Size:5 | 2XL;Apparel Size:6 | 3XL;dropped:2021/10/28;full-price;metallic foil-swim;SKU:GSW0183;SKU:GSW0277;status-live;swim-one-piece;swimwear;">
 
 
 
-<div role="banner" class="Hero__banner">
-    <div class="Hero__content Hero__content--image ">
-      <picture class="aspect-content">
-        
-          <source
-            media="(min-width: 767px)"
-            data-srcset="//cdn.shopify.com/s/files/1/1381/0415/files/GA_SWIM_HP-HERO-DESKTOP_1920x1080_102221_BS1_1600x.progressive.jpg?v=1635367007"
+
+
+
+
+</div>
+
+
+<div class="Product__options Product__options--2">
+  <!-- Product Options 1 -->
+  <div class="Product__option mt-48">
+    <span class="good-subscript text-black capitalize">
+      Color:
+      mink foil002
+    </span>
+
+    <ul
+      class="swatches js-pdp-swatch-options"
+      data-related-product-key="sku-gsw0277"
+      data-active-swatch="mink-foil002"
+      data-loaded="false"
+    >
+
+<li class="swatch swatch--selected" data-swatch="mink-foil002" role="radio">
+  
+    <div style="background-image: url(//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-SWATCH_30x.progressive.jpg?v=1634688136);"></div>
+  
+</li>
+</ul>
+  </div>
+
+  <!-- Product Options 3 -->
+  
+
+  <!-- Product Options 2 -->
+  <div class="Product__option Product__option--size">
+    <div class="flex flex-nowrap w-full justify-between pt-24 pb-6">
+      <span class="good-subscript block js-size-label">Size:</span>
+      <button class="good-utility js-toggle-modal" role="button">
+        Size Guide
+      </button>
+
+<div class="Modal js-modal" role="dialog" aria-modal="true" aria-labeledby="size-guide-modal-heading">
+  <div class="Modal__frame Modal__frame--contained js-modal-force-close">
+    <div class="Modal__container">
+      <div class="flex w-full pb-24">
+        <div class="flex" role="tablist" aria-label="Size and Fit">
+          <button
+            class="good-subheader js-modal-tab cursor-pointer border-b-3 border-solid border-black mr-12 sm:mr-36"
+            data-tab-name="Size Guide"
+            role="tab"
+            aria-selected="true"
+            aria-controls="size-guide-tabpanel"
+            tabindex="0"
+            id="size-guide-tab"
           >
-          <img
-            class="h-full w-full"
-            data-src="//cdn.shopify.com/s/files/1/1381/0415/files/GA_SWIM_HP-HERO-MOBILE_960x1200_102221_BS1_768x.progressive.jpg?v=1635367018"
-            alt="SWIM"
-          >
-        
-      </picture>
-      
-        <div class="top-vignette"></div>
-      
-    </div>
-    
-
-
-
-<div
-  class="Hero__header items-center text-center absolute my-24 lg:my-0 px-24"
-  
-    data-href="/collections/good-swim"
-  
->
-  
-  
-    <h1 class="good-header-lg m-0 mb-12 lg:mb-6 ">
-      SWIM
-    </h1>
-  
-  
-    <div class="good-p-lg mb-24 lg:mb-36">
-      <p>Committed to fit and enhancing your curves</p>
-    </div>
-  
-  
-    <div
-      class="inline-block"
-    >
-      
-
-<a href="/collections/good-swim" class="inline-block good-btn" target=""><span>SHOP COLLECTION</span></a>
-    </div>
-  
-</div>
-
-</div>
-
-</section><section id="shopify-section-1633726514fb0401a2" class="shopify-section">
-<div class="w-full" style="background: #f0f0f0">
-  <div class="py-60 px-24 good-container text-black text-center">
-    <div class="good-header mb-12">
-      <span class="block md:hidden"><p>MADE FOR YOU</p></span>
-      <span class="hidden md:block"><p>MADE FOR YOU</p></span>
-    </div><div class="good-p text-black">
-      <p>Always available in an inclusive size range from 00 - 32 Plus</p>
-    </div></div>
-</div>
-</section><section id="shopify-section-1590615341374" class="shopify-section Blocks good-container py-30">
-
-
-  
-    
-
-  
-
-    <a href="/collections/find-the-one" class="Block Block--threeUp" aria-label="Shop Now : FIND THE ONE">
-      <div class="Block__img-wrap">
-        <picture class="aspect-content">
-          <source media="(max-width: 768px)" data-srcset="//cdn.shopify.com/s/files/1/1381/0415/files/GA_FTO_DROP_COLLECTION-MOBILE_960x1200_092721_BS1_768x.progressive.jpg?v=1634760287">
-          <img
-          data-src="//cdn.shopify.com/s/files/1/1381/0415/files/GA_FTO_DROP_COLLECTION-MOBILE_960x1200_092721_BS1_1500x.progressive.jpg?v=1634760287"
-          alt="FIND THE ONE"
-          >
-        </picture>
-        
-          <div class="bottom-vignette"></div>
-        
-      </div>
-      <div class="absolute w-full h-full top-0 left-0 flex flex-col items-start justify-end text-white p-12 lg:p-24">
-        
-          <h2 class="good-header-sm mb-6">FIND THE ONE</h2>
-        
-        
-          <p class="good-p">We revolutionized denim</p>
-        
-        
-          <div class="good-btn mt-24 lg:mt-36">
-            Shop Now
-          </div>
-        
-      </div>
-    </a>
-
-  
-
-
-
-  
-
-  
-    
-
-  
-
-    <a href="/collections/bodysuits" class="Block Block--threeUp" aria-label="SHOP NOW : BODYSUITS">
-      <div class="Block__img-wrap">
-        <picture class="aspect-content">
-          <source media="(max-width: 768px)" data-srcset="//cdn.shopify.com/s/files/1/1381/0415/files/BODYSUITS_3-UP_960x1200_090121_BS1_768x.progressive.jpg?v=1630689781">
-          <img
-          data-src="//cdn.shopify.com/s/files/1/1381/0415/files/BODYSUITS_3-UP_960x1200_090121_BS1_1500x.progressive.jpg?v=1630689781"
-          alt="Bodysuits"
-          >
-        </picture>
-        
-          <div class="bottom-vignette"></div>
-        
-      </div>
-      <div class="absolute w-full h-full top-0 left-0 flex flex-col items-start justify-end text-white p-12 lg:p-24">
-        
-          <h2 class="good-header-sm mb-6">BODYSUITS</h2>
-        
-        
-          <p class="good-p">The best bodysuits known to Woman</p>
-        
-        
-          <div class="good-btn mt-24 lg:mt-36">
-            SHOP NOW
-          </div>
-        
-      </div>
-    </a>
-
-  
-
-
-
-  
-
-  
-    
-
-  
-
-    <a href="/collections/sueded-essentials" class="Block Block--threeUp" aria-label="SHOP NOW : SUEDED ESSENTIALS">
-      <div class="Block__img-wrap">
-        <picture class="aspect-content">
-          <source media="(max-width: 768px)" data-srcset="//cdn.shopify.com/s/files/1/1381/0415/files/GA_SUEDEDESSENTIALS_3-UP_960x1200_101721_BS1_768x.progressive.jpg?v=1635366987">
-          <img
-          data-src="//cdn.shopify.com/s/files/1/1381/0415/files/GA_SUEDEDESSENTIALS_3-UP_960x1200_101721_BS1_1500x.progressive.jpg?v=1635366987"
-          alt="SUEDED ESSENTIALS"
-          >
-        </picture>
-        
-          <div class="bottom-vignette"></div>
-        
-      </div>
-      <div class="absolute w-full h-full top-0 left-0 flex flex-col items-start justify-end text-white p-12 lg:p-24">
-        
-          <h2 class="good-header-sm mb-6">SUEDED ESSENTIALS</h2>
-        
-        
-          <p class="good-p">Your sweats game just hit luxury level</p>
-        
-        
-          <div class="good-btn mt-24 lg:mt-36">
-            SHOP NOW
-          </div>
-        
-      </div>
-    </a>
-
-  
-
-
-
-  
-</section><section id="shopify-section-161947018447e56e14" class="shopify-section overflow-hidden py-30">
-
-
-<div class="AccProductCarousel bg-white "data-component="AccProductCarousel"role="region"
-   aria-label="Carousel Just Dropped"
->
-  <p class="sr-only">
-    This is a carousel. Use Next and Previous buttons or keyboard arrows to navigate.
-  </p>
-  <div class="AccProductCarousel__frame">
-    <div class="AccProductCarousel__header">
-      <div class="AccProductCarousel__header-frame">
-        <div class="AccProductCarousel__header-container">
-          
-          <div class="AccProductCarousel__headline">
-            
-            <div class="AccProductCarousel__title">
-              <span class="good-header-xs">
-                Just Dropped
-              </span>
-            </div>
-            
-            
-            
-          </div>
-          
+            Size Guide
+          </button>
           
         </div>
-      </div>
-    </div>
-    <div class="AccProductCarousel__main">
-      
-      <div class="AccProductCarousel__cards-scroll js-AccProductCarousel-track">
-        <ul class="AccProductCarousel__cards">
+        <button class="js-close-modal ml-auto" aria-label="Close Size Guide">
           
-<li class="AccProductCarousel__card js-AccProductCarousel-card" role="group" aria-label="Slide 1 of 8">
-              <div class="AccProductCard">
-    <a href="/products/better-band-top-metallic-stormy-foil001" class="AccProductCard__container" aria-label="metallic foil better band top ">
-      <div class="AccProductCard__media relative">
-        
-          
-<div
-  class="AccMedia primary"
-  data-component="AccMedia">
-  <div
-    class="AccMedia__aspect"
-    
-      style="padding-bottom: 149.98%"
-    
-  >
-    
-      <div
-      class="AccMedia__object js-AccMedia-object"
-      data-src="//cdn.shopify.com/s/files/1/1381/0415/products/GSW0262-SY02-H21-A_5_2133_ead92a09-d727-40af-99ec-3c9b56fff31f_1024x.jpg?v=1634747506"
-      
-      aria-label="model: Size 0 |"
-    >
-    
-      
-      
-    </div>
-  </div>
-</div>
-
-        
-        
-          
-<div
-  class="AccMedia hover"
-  data-component="AccMedia">
-  <div
-    class="AccMedia__aspect"
-    
-      style="padding-bottom: 149.98%"
-    
-  >
-    
-      <div
-      class="AccMedia__object js-AccMedia-object"
-      data-src="//cdn.shopify.com/s/files/1/1381/0415/products/GSW0262-SY02-H21-A_1_2092_1024x.jpg?v=1634747506"
-      
-      aria-label="model: Size 0 |"
-    >
-    
-      
-      
-    </div>
-  </div>
-</div>
-
-        
-        
-      </div>
-      <div class="AccProductCard__content mt-12 flex flex-col lg:justify-between lg:flex-row lg:flex-no-wrap good-header-xxs">
-        <div class="AccProductCard__title mb-3 lg:mb-0">
-          metallic foil better band top 
-        </div>
-        
-          <span>
-            <span class="visually-hidden">Price: </span>
-            <span
-              flow-variant="39467643273299"
-              flow-selector="prices.item.label"
-              flow-default="<span class='bfx-price bfx-hide-onload bfx-make-visible'>$49</span>"><span class='bfx-price bfx-hide-onload bfx-make-visible'>$49</span>
-            </span>
-          </span>
-        
-      </div>
-      <ul class="swatches small">
-
-
-<li class="swatch swatch--selected" data-swatch="" role="radio">
-  
-    <div style="background-image: url(//cdn.shopify.com/s/files/1/1381/0415/products/GSW0262-SY02-H21-SWATCH_30x.progressive.jpg?v=1634747505);"></div>
-  
-</li>
-
-      </ul>
-    </a></div>
-            </li>
-
-          
-<li class="AccProductCarousel__card js-AccProductCarousel-card" role="group" aria-label="Slide 2 of 8">
-              <div class="AccProductCard">
-    <a href="/products/mesh-foil-underwire-crop-top-mocha-foil002" class="AccProductCard__container" aria-label="mesh foil underwire crop top ">
-      <div class="AccProductCard__media relative">
-        
-          
-<div
-  class="AccMedia primary"
-  data-component="AccMedia">
-  <div
-    class="AccMedia__aspect"
-    
-      style="padding-bottom: 149.98%"
-    
-  >
-    
-      <div
-      class="AccMedia__object js-AccMedia-object"
-      data-src="//cdn.shopify.com/s/files/1/1381/0415/products/GSW0234-MC02-H21-C_6_1257_c8ccedbf-060d-47df-95d7-17013b48f7c0_1024x.jpg?v=1634683708"
-      
-      aria-label="model: Size 16 |"
-    >
-    
-      
-      
-    </div>
-  </div>
-</div>
-
-        
-        
-          
-<div
-  class="AccMedia hover"
-  data-component="AccMedia">
-  <div
-    class="AccMedia__aspect"
-    
-      style="padding-bottom: 149.98%"
-    
-  >
-    
-      <div
-      class="AccMedia__object js-AccMedia-object"
-      data-src="//cdn.shopify.com/s/files/1/1381/0415/products/GSW0234-MC02-H21-C_2_0998_1024x.jpg?v=1634683709"
-      
-      aria-label="model: Size 16 |"
-    >
-    
-      
-      
-    </div>
-  </div>
-</div>
-
-        
-        
-      </div>
-      <div class="AccProductCard__content mt-12 flex flex-col lg:justify-between lg:flex-row lg:flex-no-wrap good-header-xxs">
-        <div class="AccProductCard__title mb-3 lg:mb-0">
-          mesh foil underwire crop top 
-        </div>
-        
-          <span>
-            <span class="visually-hidden">Price: </span>
-            <span
-              flow-variant="39467663753299"
-              flow-selector="prices.item.label"
-              flow-default="<span class='bfx-price bfx-hide-onload bfx-make-visible'>$65</span>"><span class='bfx-price bfx-hide-onload bfx-make-visible'>$65</span>
-            </span>
-          </span>
-        
-      </div>
-      <ul class="swatches small">
-
-
-<li class="swatch swatch--selected" data-swatch="" role="radio">
-  
-    <div style="background-image: url(//cdn.shopify.com/s/files/1/1381/0415/products/GSW0234-MC02-H21-SWATCH_30x.progressive.jpg?v=1634683707);"></div>
-  
-</li>
-
-      </ul>
-    </a></div>
-            </li>
-
-          
-<li class="AccProductCarousel__card js-AccProductCarousel-card" role="group" aria-label="Slide 3 of 8">
-              <div class="AccProductCard">
-    <a href="/products/barley-there-one-piece-lilac-mist001" class="AccProductCard__container" aria-label="shine barely there one-piece ">
-      <div class="AccProductCard__media relative">
-        
-          
-<div
-  class="AccMedia primary"
-  data-component="AccMedia">
-  <div
-    class="AccMedia__aspect"
-    
-      style="padding-bottom: 149.98%"
-    
-  >
-    
-      <div
-      class="AccMedia__object js-AccMedia-object"
-      data-src="//cdn.shopify.com/s/files/1/1381/0415/products/GSW0272-LL01-H21-C_5_0732_1024x.jpg?v=1634748555"
-      
-      aria-label="model: Size 16 |"
-    >
-    
-      
-      
-    </div>
-  </div>
-</div>
-
-        
-        
-          
-<div
-  class="AccMedia hover"
-  data-component="AccMedia">
-  <div
-    class="AccMedia__aspect"
-    
-      style="padding-bottom: 149.98%"
-    
-  >
-    
-      <div
-      class="AccMedia__object js-AccMedia-object"
-      data-src="//cdn.shopify.com/s/files/1/1381/0415/products/GSW0272-LL01-H21-C_6_9460_1024x.jpg?v=1634748554"
-      
-      aria-label="model: Size 16 |"
-    >
-    
-      
-      
-    </div>
-  </div>
-</div>
-
-        
-        
-      </div>
-      <div class="AccProductCard__content mt-12 flex flex-col lg:justify-between lg:flex-row lg:flex-no-wrap good-header-xxs">
-        <div class="AccProductCard__title mb-3 lg:mb-0">
-          shine barely there one-piece 
-        </div>
-        
-          <span>
-            <span class="visually-hidden">Price: </span>
-            <span
-              flow-variant="39467661164627"
-              flow-selector="prices.item.label"
-              flow-default="<span class='bfx-price bfx-hide-onload bfx-make-visible'>$75</span>"><span class='bfx-price bfx-hide-onload bfx-make-visible'>$75</span>
-            </span>
-          </span>
-        
-      </div>
-      <ul class="swatches small">
-
-
-<li class="swatch swatch--selected" data-swatch="" role="radio">
-  
-    <div style="background-image: url(//cdn.shopify.com/s/files/1/1381/0415/products/GSW0272-LL01-H21-SWATCH_30x.progressive.jpg?v=1634748551);"></div>
-  
-</li>
-
-      </ul>
-    </a></div>
-            </li>
-
-          
-<li class="AccProductCarousel__card js-AccProductCarousel-card" role="group" aria-label="Slide 4 of 8">
-              <div class="AccProductCard">
-    <a href="/products/good-waist-bottom-snake-sand-snake002" class="AccProductCard__container" aria-label="snake good waist bottom ">
-      <div class="AccProductCard__media relative">
-        
-          
-<div
-  class="AccMedia primary"
-  data-component="AccMedia">
-  <div
-    class="AccMedia__aspect"
-    
-      style="padding-bottom: 149.98%"
-    
-  >
-    
-      <div
-      class="AccMedia__object js-AccMedia-object"
-      data-src="//cdn.shopify.com/s/files/1/1381/0415/products/GSW0258-SK02-H21-A_5_2437_01c2bf51-c51e-46b9-b7ec-fda2d6c5aa38_1024x.jpg?v=1634684511"
-      
-      aria-label="model: Size 0 |"
-    >
-    
-      
-      
-    </div>
-  </div>
-</div>
-
-        
-        
-          
-<div
-  class="AccMedia hover"
-  data-component="AccMedia">
-  <div
-    class="AccMedia__aspect"
-    
-      style="padding-bottom: 149.98%"
-    
-  >
-    
-      <div
-      class="AccMedia__object js-AccMedia-object"
-      data-src="//cdn.shopify.com/s/files/1/1381/0415/products/GSW0258-SK02-H21-A_1_0497_1024x.jpg?v=1634684509"
-      
-      aria-label="model: Size 0 |"
-    >
-    
-      
-      
-    </div>
-  </div>
-</div>
-
-        
-        
-      </div>
-      <div class="AccProductCard__content mt-12 flex flex-col lg:justify-between lg:flex-row lg:flex-no-wrap good-header-xxs">
-        <div class="AccProductCard__title mb-3 lg:mb-0">
-          snake good waist bottom 
-        </div>
-        
-          <span>
-            <span class="visually-hidden">Price: </span>
-            <span
-              flow-variant="39467657330771"
-              flow-selector="prices.item.label"
-              flow-default="<span class='bfx-price bfx-hide-onload bfx-make-visible'>$55</span>"><span class='bfx-price bfx-hide-onload bfx-make-visible'>$55</span>
-            </span>
-          </span>
-        
-      </div>
-      <ul class="swatches small">
-
-
-<li class="swatch swatch--selected" data-swatch="" role="radio">
-  
-    <div style="background-image: url(//cdn.shopify.com/s/files/1/1381/0415/products/GSW0258-SK02-H21-SWATCH_30x.progressive.jpg?v=1634684509);"></div>
-  
-</li>
-
-      </ul>
-    </a></div>
-            </li>
-
-          
-<li class="AccProductCarousel__card js-AccProductCarousel-card" role="group" aria-label="Slide 5 of 8">
-              <div class="AccProductCard">
-    <a href="/products/always-fits-scoop-top-mocha001" class="AccProductCard__container" aria-label="always fits scoop top ">
-      <div class="AccProductCard__media relative">
-        
-          
-<div
-  class="AccMedia primary"
-  data-component="AccMedia">
-  <div
-    class="AccMedia__aspect"
-    
-      style="padding-bottom: 149.98%"
-    
-  >
-    
-      <div
-      class="AccMedia__object js-AccMedia-object"
-      data-src="//cdn.shopify.com/s/files/1/1381/0415/products/GSW0144-MC01-H21-B_5_0228_1024x.jpg?v=1634670934"
-      
-      aria-label="model: Size 8 |"
-    >
-    
-      
-      
-    </div>
-  </div>
-</div>
-
-        
-        
-          
-<div
-  class="AccMedia hover"
-  data-component="AccMedia">
-  <div
-    class="AccMedia__aspect"
-    
-      style="padding-bottom: 149.98%"
-    
-  >
-    
-      <div
-      class="AccMedia__object js-AccMedia-object"
-      data-src="//cdn.shopify.com/s/files/1/1381/0415/products/GSW0144-MC01-H21-B_4_0216_1024x.jpg?v=1634670936"
-      
-      aria-label="model: Size 8 |"
-    >
-    
-      
-      
-    </div>
-  </div>
-</div>
-
-        
-        
-      </div>
-      <div class="AccProductCard__content mt-12 flex flex-col lg:justify-between lg:flex-row lg:flex-no-wrap good-header-xxs">
-        <div class="AccProductCard__title mb-3 lg:mb-0">
-          always fits scoop top 
-        </div>
-        
-          <span>
-            <span class="visually-hidden">Price: </span>
-            <span
-              flow-variant="39467490738259"
-              flow-selector="prices.item.label"
-              flow-default="<span class='bfx-price bfx-hide-onload bfx-make-visible'>$55</span>"><span class='bfx-price bfx-hide-onload bfx-make-visible'>$55</span>
-            </span>
-          </span>
-        
-      </div>
-      <ul class="swatches small">
-
-
-<li class="swatch swatch--selected" data-swatch="" role="radio">
-  
-    <div style="background-image: url(//cdn.shopify.com/s/files/1/1381/0415/products/GSW0144-MC01-H21-SWATCH_30x.progressive.jpg?v=1634670933);"></div>
-  
-</li>
-
-      </ul>
-    </a></div>
-            </li>
-
-          
-<li class="AccProductCarousel__card js-AccProductCarousel-card" role="group" aria-label="Slide 6 of 8">
-              <div class="AccProductCard">
-    <a href="/products/ruched-side-cinch-black001" class="AccProductCard__container" aria-label="shine cinch one-piece ">
-      <div class="AccProductCard__media relative">
-        
-          
-<div
-  class="AccMedia primary"
-  data-component="AccMedia">
-  <div
-    class="AccMedia__aspect"
-    
-      style="padding-bottom: 149.98%"
-    
-  >
-    
-      <div
-      class="AccMedia__object js-AccMedia-object"
-      data-src="//cdn.shopify.com/s/files/1/1381/0415/products/GSW0182-K001-H21-C_4_0083_1024x.jpg?v=1634748699"
-      
-      aria-label="model: Size 16 |"
-    >
-    
-      
-      
-    </div>
-  </div>
-</div>
-
-        
-        
-          
-<div
-  class="AccMedia hover"
-  data-component="AccMedia">
-  <div
-    class="AccMedia__aspect"
-    
-      style="padding-bottom: 149.98%"
-    
-  >
-    
-      <div
-      class="AccMedia__object js-AccMedia-object"
-      data-src="//cdn.shopify.com/s/files/1/1381/0415/products/GSW0182-K001-H21-C_2_0068_1024x.jpg?v=1634748698"
-      
-      aria-label="model: Size 16 |"
-    >
-    
-      
-      
-    </div>
-  </div>
-</div>
-
-        
-        
-      </div>
-      <div class="AccProductCard__content mt-12 flex flex-col lg:justify-between lg:flex-row lg:flex-no-wrap good-header-xxs">
-        <div class="AccProductCard__title mb-3 lg:mb-0">
-          shine cinch one-piece 
-        </div>
-        
-          <span>
-            <span class="visually-hidden">Price: </span>
-            <span
-              flow-variant="39467648876627"
-              flow-selector="prices.item.label"
-              flow-default="<span class='bfx-price bfx-hide-onload bfx-make-visible'>$95</span>"><span class='bfx-price bfx-hide-onload bfx-make-visible'>$95</span>
-            </span>
-          </span>
-        
-      </div>
-      <ul class="swatches small">
-
-
-<li class="swatch swatch--selected" data-swatch="" role="radio">
-  
-    <div style="background-image: url(//cdn.shopify.com/s/files/1/1381/0415/products/GSW0182-K001-H21-SWATCH_30x.progressive.jpg?v=1634748697);"></div>
-  
-</li>
-
-      </ul>
-    </a></div>
-            </li>
-
-          
-<li class="AccProductCarousel__card js-AccProductCarousel-card" role="group" aria-label="Slide 7 of 8">
-              <div class="AccProductCard">
-    <a href="/products/ruched-demi-cup-metallic-mocha-foil002" class="AccProductCard__container" aria-label="metallic ruched demi cup ">
-      <div class="AccProductCard__media relative">
-        
-          
-<div
-  class="AccMedia primary"
-  data-component="AccMedia">
-  <div
-    class="AccMedia__aspect"
-    
-      style="padding-bottom: 149.98%"
-    
-  >
-    
-      <div
-      class="AccMedia__object js-AccMedia-object"
-      data-src="//cdn.shopify.com/s/files/1/1381/0415/products/GSW0278-MC02-H21-A_2_2901_1024x.jpg?v=1634687560"
-      
-      aria-label="model: Size 0 |"
-    >
-    
-      
-      
-    </div>
-  </div>
-</div>
-
-        
-        
-          
-<div
-  class="AccMedia hover"
-  data-component="AccMedia">
-  <div
-    class="AccMedia__aspect"
-    
-      style="padding-bottom: 149.98%"
-    
-  >
-    
-      <div
-      class="AccMedia__object js-AccMedia-object"
-      data-src="//cdn.shopify.com/s/files/1/1381/0415/products/GSW0278-MC02-H21-A_5_0716_1024x.jpg?v=1634687560"
-      
-      aria-label="model: Size 0 |"
-    >
-    
-      
-      
-    </div>
-  </div>
-</div>
-
-        
-        
-      </div>
-      <div class="AccProductCard__content mt-12 flex flex-col lg:justify-between lg:flex-row lg:flex-no-wrap good-header-xxs">
-        <div class="AccProductCard__title mb-3 lg:mb-0">
-          metallic ruched demi cup 
-        </div>
-        
-          <span>
-            <span class="visually-hidden">Price: </span>
-            <span
-              flow-variant="39467647729747"
-              flow-selector="prices.item.label"
-              flow-default="<span class='bfx-price bfx-hide-onload bfx-make-visible'>$65</span>"><span class='bfx-price bfx-hide-onload bfx-make-visible'>$65</span>
-            </span>
-          </span>
-        
-      </div>
-      <ul class="swatches small">
-
-
-<li class="swatch swatch--selected" data-swatch="" role="radio">
-  
-    <div style="background-image: url(//cdn.shopify.com/s/files/1/1381/0415/products/GSW0278-MC02-H21-SWATCH_30x.progressive.jpg?v=1634687558);"></div>
-  
-</li>
-
-      </ul>
-    </a></div>
-            </li>
-
-          
-<li class="AccProductCarousel__card js-AccProductCarousel-card" role="group" aria-label="Slide 8 of 8">
-              <div class="AccProductCard">
-    <a href="/products/always-fits-better-cheeky-lilac-mist001" class="AccProductCard__container" aria-label="always fits better cheeky ">
-      <div class="AccProductCard__media relative">
-        
-          
-<div
-  class="AccMedia primary"
-  data-component="AccMedia">
-  <div
-    class="AccMedia__aspect"
-    
-      style="padding-bottom: 149.98%"
-    
-  >
-    
-      <div
-      class="AccMedia__object js-AccMedia-object"
-      data-src="//cdn.shopify.com/s/files/1/1381/0415/products/GSW0148-LL01-H21-A_5_1486_1024x.jpg?v=1634675309"
-      
-      aria-label="model: Size 0 |"
-    >
-    
-      
-      
-    </div>
-  </div>
-</div>
-
-        
-        
-          
-<div
-  class="AccMedia hover"
-  data-component="AccMedia">
-  <div
-    class="AccMedia__aspect"
-    
-      style="padding-bottom: 149.98%"
-    
-  >
-    
-      <div
-      class="AccMedia__object js-AccMedia-object"
-      data-src="//cdn.shopify.com/s/files/1/1381/0415/products/GSW0148-LL01-H21-A_5_1494_1024x.jpg?v=1634675311"
-      
-      aria-label="model: Size 0 |"
-    >
-    
-      
-      
-    </div>
-  </div>
-</div>
-
-        
-        
-      </div>
-      <div class="AccProductCard__content mt-12 flex flex-col lg:justify-between lg:flex-row lg:flex-no-wrap good-header-xxs">
-        <div class="AccProductCard__title mb-3 lg:mb-0">
-          always fits better cheeky 
-        </div>
-        
-          <span>
-            <span class="visually-hidden">Price: </span>
-            <span
-              flow-variant="39467494047827"
-              flow-selector="prices.item.label"
-              flow-default="<span class='bfx-price bfx-hide-onload bfx-make-visible'>$49</span>"><span class='bfx-price bfx-hide-onload bfx-make-visible'>$49</span>
-            </span>
-          </span>
-        
-      </div>
-      <ul class="swatches small">
-
-
-<li class="swatch swatch--selected" data-swatch="" role="radio">
-  
-    <div style="background-image: url(//cdn.shopify.com/s/files/1/1381/0415/products/GSW0148-LL01-H21-SWATCH_30x.progressive.jpg?v=1634675308);"></div>
-  
-</li>
-
-      </ul>
-    </a></div>
-            </li>
-
-          
-        </ul>
-      </div>
-      
-      
-      <div class="AccProductCarousel__controls">
-        <button
-          class="AccProductCarousel__control AccProductCarousel__control--previous js-AccProductCarousel-previous">
-          
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-      <path fill="currentColor" d="M1.53044444,12.0896667 C1.23711111,12.0896667 1,11.8501111 1,11.5543333 C1,11.2585556 1.23711111,11.019 1.53044444,11.019 L21.1898889,11.019 L14.1437778,3.913 C13.936,3.70522222 13.936,3.36544444 14.1437778,3.15644444 C14.2464444,3.05255556 14.3821111,3 14.5177778,3 C14.6534444,3 14.7891111,3.05255556 14.893,3.15644444 L22.8447778,11.1778889 C23.0525556,11.3856667 23.0525556,11.7242222 22.8447778,11.9332222 L14.893,19.9546667 C14.6852222,20.1624444 14.3503333,20.1624444 14.1437778,19.9546667 C13.936,19.7456667 13.936,19.4071111 14.1437778,19.1981111 L21.1898889,12.0908889 L1.53044444,12.0908889 L1.53044444,12.0896667 Z" transform="matrix(-1 0 0 1 24 0)"/>
-    </svg>
-  
-
-        </button>
-        <button class="AccProductCarousel__control AccProductCarousel__control--next js-AccProductCarousel-next">
-          
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-      <path fill="currentColor" d="M1.53044444,12.0896667 C1.23711111,12.0896667 1,11.8501111 1,11.5543333 C1,11.2585556 1.23711111,11.019 1.53044444,11.019 L21.1898889,11.019 L14.1437778,3.913 C13.936,3.70522222 13.936,3.36544444 14.1437778,3.15644444 C14.2464444,3.05255556 14.3821111,3 14.5177778,3 C14.6534444,3 14.7891111,3.05255556 14.893,3.15644444 L22.8447778,11.1778889 C23.0525556,11.3856667 23.0525556,11.7242222 22.8447778,11.9332222 L14.893,19.9546667 C14.6852222,20.1624444 14.3503333,20.1624444 14.1437778,19.9546667 C13.936,19.7456667 13.936,19.4071111 14.1437778,19.1981111 L21.1898889,12.0908889 L1.53044444,12.0908889 L1.53044444,12.0896667 Z"/>
+    <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+      <path fill="#000000" fill-rule="evenodd" d="M39 56.209L37.791 55 33 59.791 28.209 55 27 56.209 31.791 61 27 65.791 28.209 67 33 62.209 37.791 67 39 65.791 34.209 61z" transform="translate(-27 -55)"/>
     </svg>
   
 
         </button>
       </div>
-      
-    </div>
-    <div class="AccProductCarousel__footer">
-      <div class="AccProductCarousel__footer-frame">
-        <div class="AccProductCarousel__footer-container">
-          <div class="AccProductCarousel__actions">
+      <div
+        class="Modal__tab Modal__tab--size-guide"
+        name="Size Guide"
+        role="tabpanel"
+        aria-labelledby="size-guide-tab"
+        id="size-guide-tabpanel"
+      >
+        <h1 id="size-guide-modal-heading" class="sr-only">Size Guide</h1>
+        <div class="pt-12 pb-12">
+          <h2 class="good-header-xs">
+            
+          </h2>
+          <div class="good-subscript pt-6">
             
           </div>
         </div>
+        <div class="Modal__table">
+                          <p><br></p><table><tbody><tr><td>Size</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>Dress Size</td><td>XS</td><td>S</td><td>M</td><td>L</td><td>XL</td><td>2XL</td><td>3XL</td><td>4XL</td><td>5XL</td></tr><tr><td>Cup</td><td>A/B</td><td>A/B, B/C</td><td>B/C, C</td><td>B/C, C</td><td>B/C, C/D</td><td>B/C, C/D</td><td>C, D</td><td>D, DD</td><td>DD</td></tr><tr><td>Bust</td><td>32-33</td><td>34-35</td><td>36-37</td><td>38.5-40</td><td>41-42.5</td><td>43.5-46</td><td>47-50</td><td>51-54</td><td>55-58</td></tr><tr><td>Underband</td><td>24.5-26.5</td><td>26.5-28.5</td><td>28.5-30.5</td><td>30.5-32.5</td><td>32.5-34.5</td><td>35.5-38.5</td><td>39.5-42.5</td><td>43.5-46.5</td><td>46.5-50</td></tr><tr><td>Waist</td><td>24-25</td><td>26-27</td><td>28-29</td><td>30.5-32.5</td><td>33.5-36.5</td><td>38.5-42</td><td>43.5-47</td><td>48.5-52</td><td>53.5-57</td></tr></tbody></table>            
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+</div>
+    <div class="good-form__group-select js-option-select relative">
+      <button
+        class="good-form__group-select__toggle js-select-toggle"
+        data-option="1"
+        data-option-name="size"
+        type="button"
+        role="combobox"
+        aria-labelledby="size-dropdown-label"
+        aria-expanded="false"
+        aria-haspopup="listbox"
+      >
+        <span>Please Select</span>
+        
+    <svg xmlns="http://www.w3.org/2000/svg" width="7" height="4"><path fill="#000000" fill-rule="evenodd" d="M3.5 4L0 0h7z"/></svg>
+  
+
+      </button>
+      <ul class="good-form__group-select__list js-select-list" role="listbox">
+        
+          
+          <li role="option" id="size0">
+            <button
+              class="good-form__group-select__option js-select-option"
+              data-option="1"
+              data-value="0"
+              tabindex="-1"
+            >
+              0
+            </button>
+          </li>
+
+        
+          
+          <li role="option" id="size1">
+            <button
+              class="good-form__group-select__option js-select-option"
+              data-option="1"
+              data-value="1"
+              tabindex="-1"
+            >
+              1
+            </button>
+          </li>
+
+        
+          
+          <li role="option" id="size2">
+            <button
+              class="good-form__group-select__option js-select-option"
+              data-option="1"
+              data-value="2"
+              tabindex="-1"
+            >
+              2
+            </button>
+          </li>
+
+        
+          
+          <li role="option" id="size3">
+            <button
+              class="good-form__group-select__option js-select-option"
+              data-option="1"
+              data-value="3"
+              tabindex="-1"
+            >
+              3
+            </button>
+          </li>
+
+        
+          
+          <li role="option" id="size4">
+            <button
+              class="good-form__group-select__option js-select-option"
+              data-option="1"
+              data-value="4"
+              tabindex="-1"
+            >
+              4
+            </button>
+          </li>
+
+        
+          
+          <li role="option" id="size5">
+            <button
+              class="good-form__group-select__option js-select-option"
+              data-option="1"
+              data-value="5"
+              tabindex="-1"
+            >
+              5
+            </button>
+          </li>
+
+        
+          
+          <li role="option" id="size6">
+            <button
+              class="good-form__group-select__option js-select-option"
+              data-option="1"
+              data-value="6"
+              tabindex="-1"
+            >
+              6
+            </button>
+          </li>
+
+        
+          
+          <li role="option" id="size7">
+            <button
+              class="good-form__group-select__option js-select-option"
+              data-option="1"
+              data-value="7"
+              tabindex="-1"
+            >
+              7
+            </button>
+          </li>
+
+        
+          
+          <li role="option" id="size8">
+            <button
+              class="good-form__group-select__option js-select-option"
+              data-option="1"
+              data-value="8"
+              tabindex="-1"
+            >
+              8
+            </button>
+          </li>
+
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="Product__form">
+  <select hidden class="js-variants" data-promo="" data-msg="" data-color="mink foil002" data-quantity="" data-variant="">
+    
+      
+      
+
+      
+
+      <option class="js-variant"
+        selected
+        data-inventory="6"
+        data-price="<span class='bfx-price bfx-hide-onload bfx-make-visible'>$85</span>"
+        data-option1="MINK FOIL002"
+        data-option2="0"
+        data-option3=""
+        data-size="0"
+        data-color="mink-foil002"
+        id="39467668734035"
+        value="39467668734035"
+        data-product-id="6620540043347"
+      >
+        39467668734035
+      </option>
+    
+      
+      
+
+      
+
+      <option class="js-variant"
+        
+        data-inventory="19"
+        data-price="<span class='bfx-price bfx-hide-onload bfx-make-visible'>$85</span>"
+        data-option1="MINK FOIL002"
+        data-option2="1"
+        data-option3=""
+        data-size="1"
+        data-color="mink-foil002"
+        id="39467668766803"
+        value="39467668766803"
+        data-product-id="6620540043347"
+      >
+        39467668766803
+      </option>
+    
+      
+      
+
+      
+
+      <option class="js-variant"
+        
+        data-inventory="28"
+        data-price="<span class='bfx-price bfx-hide-onload bfx-make-visible'>$85</span>"
+        data-option1="MINK FOIL002"
+        data-option2="2"
+        data-option3=""
+        data-size="2"
+        data-color="mink-foil002"
+        id="39467668832339"
+        value="39467668832339"
+        data-product-id="6620540043347"
+      >
+        39467668832339
+      </option>
+    
+      
+      
+
+      
+
+      <option class="js-variant"
+        
+        data-inventory="21"
+        data-price="<span class='bfx-price bfx-hide-onload bfx-make-visible'>$85</span>"
+        data-option1="MINK FOIL002"
+        data-option2="3"
+        data-option3=""
+        data-size="3"
+        data-color="mink-foil002"
+        id="39467668897875"
+        value="39467668897875"
+        data-product-id="6620540043347"
+      >
+        39467668897875
+      </option>
+    
+      
+      
+
+      
+
+      <option class="js-variant"
+        
+        data-inventory="11"
+        data-price="<span class='bfx-price bfx-hide-onload bfx-make-visible'>$85</span>"
+        data-option1="MINK FOIL002"
+        data-option2="4"
+        data-option3=""
+        data-size="4"
+        data-color="mink-foil002"
+        id="39467668930643"
+        value="39467668930643"
+        data-product-id="6620540043347"
+      >
+        39467668930643
+      </option>
+    
+      
+      
+
+      
+
+      <option class="js-variant"
+        
+        data-inventory="5"
+        data-price="<span class='bfx-price bfx-hide-onload bfx-make-visible'>$85</span>"
+        data-option1="MINK FOIL002"
+        data-option2="5"
+        data-option3=""
+        data-size="5"
+        data-color="mink-foil002"
+        id="39467668963411"
+        value="39467668963411"
+        data-product-id="6620540043347"
+      >
+        39467668963411
+      </option>
+    
+      
+      
+
+      
+
+      <option class="js-variant"
+        
+        data-inventory="3"
+        data-price="<span class='bfx-price bfx-hide-onload bfx-make-visible'>$85</span>"
+        data-option1="MINK FOIL002"
+        data-option2="6"
+        data-option3=""
+        data-size="6"
+        data-color="mink-foil002"
+        id="39467668996179"
+        value="39467668996179"
+        data-product-id="6620540043347"
+      >
+        39467668996179
+      </option>
+    
+      
+      
+
+      
+
+      <option class="js-variant"
+        
+        data-inventory="0"
+        data-price="<span class='bfx-price bfx-hide-onload bfx-make-visible'>$85</span>"
+        data-option1="MINK FOIL002"
+        data-option2="7"
+        data-option3=""
+        data-size="7"
+        data-color="mink-foil002"
+        id="39467669028947"
+        value="39467669028947"
+        data-product-id="6620540043347"
+      >
+        39467669028947
+      </option>
+    
+      
+      
+
+      
+
+      <option class="js-variant"
+        
+        data-inventory="0"
+        data-price="<span class='bfx-price bfx-hide-onload bfx-make-visible'>$85</span>"
+        data-option1="MINK FOIL002"
+        data-option2="8"
+        data-option3=""
+        data-size="8"
+        data-color="mink-foil002"
+        id="39467669061715"
+        value="39467669061715"
+        data-product-id="6620540043347"
+      >
+        39467669061715
+      </option>
+    
+  </select><div id="js-addToCart"></div>
+
+  <div class="klarna-container">
+    <div class="klarna-wrapper">
+      <klarna-placement
+        data-id="34bb9da6-88ab-4de1-9171-7b731fba6031"
+        data-purchase_amount="8500"
+        data-preloaded="true"
+        data-locale="en-US"
+      ></klarna-placement>
+    </div>
+    
+      <div class="Product__form__shipping-msg mt-6 flow__pdp-shipping-text js-pdp-shipping-msg">
+        Free Shipping No Minimum
+      </div>
+    
+  </div>
+
+  
+    <button class="good-p underline mt-36 mb-6 js-scroll-to-sw">Complete the Look</button>
+  
+</div>
+<div id="js-waitlistPopup"></div>
+
+<div class="Product__content">
+  
+  <div class="Accordion">
+    <div class="Accordion__item" data-open>
+  <button class="Accordion__header">
+    <h2>The Details</h2>
+    
+    <svg xmlns="http://www.w3.org/2000/svg" width="7" height="4"><path fill="#000000" fill-rule="evenodd" d="M3.5 4L0 0h7z"/></svg>
+  
+
+  </button>
+  <div class="Accordion__content">
+    <div class="Accordion__content__inner">
+      <p>Introducing the Metallic Foil Cut Out One Piece</p>
+<ul type="disc">
+<li style="font-weight: 400;">Cut out one piece monokini</li>
+<li style="font-weight: 400;">Super high cut on legs (90's throwback) </li>
+<li style="font-weight: 400;">Medium cheeky coverage at butt </li>
+<li style="font-weight: 400;">Adjustable support at top </li>
+<li style="font-weight: 400;">Super high shine metallic foil </li>
+<li style="font-weight: 400;">White gold color</li>
+</ul>
+    </div>
+  </div>
+</div>
+    
+      
+
+<div class="Accordion__item">
+  <button class="Accordion__header">
+    <h2>The Fabric</h2>
+    
+    <svg xmlns="http://www.w3.org/2000/svg" width="7" height="4"><path fill="#000000" fill-rule="evenodd" d="M3.5 4L0 0h7z"/></svg>
+  
+
+  </button>
+  <div class="Accordion__content">
+    <div class="Accordion__content__inner">
+      
+        <div class="Product__icon-list">
+          <div class="Product__icon">
+            <img
+              data-src=""
+              alt=""
+            />
+          </div>
+          <div class="Product__icon-content good-p">
+            <ul><li>80% Nylon&nbsp;</li><li>20% Elastane</li></ul><p>Care: Hand wash line, dry</p>
+          </div>
+        </div>
+      
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="Accordion__item">
+  <button class="Accordion__header">
+    <h2>The Fit</h2>
+    
+    <svg xmlns="http://www.w3.org/2000/svg" width="7" height="4"><path fill="#000000" fill-rule="evenodd" d="M3.5 4L0 0h7z"/></svg>
+  
+
+  </button>
+  <div class="Accordion__content">
+    <div class="Accordion__content__inner">
+      <ul><li>XS order size 0</li><li>S order size 1</li><li>M order size 2</li><li>L order size 3</li><li>XL order size 4</li><li>2XL order size 5</li><li>3XL order size 6</li><li>4XL order size 7</li><li>5XL order size 8</li></ul><p>Model size 0 is 5’9 and wearing size 0&nbsp;</p><p><span style="font-size: 13px;">Model size 8 is 5'9 and wearing size 3</span></p><p><span style="font-size: 13px;">Model size 16 is 5’9 and wearing size 5</span></p>
+    </div>
+  </div>
+</div>
+    
+    <div class="Accordion__item">
+  <button class="Accordion__header">
+    <h2>Shipping & Returns</h2>
+    
+    <svg xmlns="http://www.w3.org/2000/svg" width="7" height="4"><path fill="#000000" fill-rule="evenodd" d="M3.5 4L0 0h7z"/></svg>
+  
+
+  </button>
+  <div class="Accordion__content">
+    <div class="Accordion__content__inner">
+      <div class="Product__icon-list">
+        <div class="Product__icon">
+          
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="17" viewBox="0 0 15 17">
+      <defs>
+        <path id="prefix__a" d="M0 0L29.819 0 29.819 28.4 0 28.4z"/>
+      </defs>
+      <g fill="none" fill-rule="evenodd" transform="translate(-8 -11.743)">
+        <mask id="prefix__b" fill="#fff">
+          <use xlink:href="#prefix__a"/>
+        </mask>
+        <path fill="#000" fill-rule="nonzero" d="M15.333 12L8 15.333v9.334L15.333 28l7.334-3.333v-9.334L15.333 12zm0 1.465L20.25 15.7l-4.917 2.235-4.918-2.235 4.918-2.235zm-6 10.343v-7.136l5.334 2.423v7.137l-5.334-2.424zm12 0L16 26.232v-7.137l5.333-2.423v7.136z" mask="url(#prefix__b)"/>
+      </g>
+    </svg>
+  
+
+        </div>
+        <div class="Product__icon-content good-p">
+          <p>Free Shipping No Minimum </p><p><a href="/pages/shipping-info" target="_blank" title="Shipping">Learn more.</a></p>
+        </div>
+        
+      </div>
+      <div class="Product__icon-list">
+        <div class="Product__icon">
+          
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="17" viewBox="0 0 16 17">
+      <defs>
+        <path id="prefix__a" d="M0 0L29.82 0 29.82 28.399 0 28.399z"/>
+      </defs>
+      <g fill="none" fill-rule="evenodd" transform="translate(-7 -5.744)">
+        <mask id="prefix__b" fill="#fff">
+          <use xlink:href="#prefix__a"/>
+        </mask>
+        <path fill="#000" fill-rule="nonzero" d="M15 22c-1.014 0-2.002-.187-2.937-.557-.904-.356-1.727-.87-2.448-1.527-1.466-1.335-2.38-3.152-2.576-5.117-.04-.4.253-.756.652-.795.4-.04.756.252.796.651.16 1.607.908 3.093 2.107 4.186.59.537 1.264.958 2.003 1.25.764.301 1.573.454 2.403.454.884 0 1.741-.172 2.548-.514.387-.164.761-.367 1.111-.603.347-.234.673-.503.97-.8.296-.296.565-.622.799-.969.236-.35.44-.724.603-1.111.342-.807.514-1.664.514-2.548 0-.83-.153-1.639-.455-2.403-.291-.739-.712-1.413-1.25-2.003-1.092-1.2-2.578-1.948-4.185-2.107-.4-.04-.691-.396-.652-.796.04-.4.396-.691.796-.652 1.965.195 3.782 1.11 5.117 2.575.657.721 1.17 1.545 1.527 2.448.37.936.557 1.924.557 2.938 0 1.08-.212 2.127-.629 3.114-.2.474-.449.932-.738 1.36-.286.423-.614.821-.976 1.183-.362.362-.76.69-1.184.976-.428.29-.885.538-1.359.738-.987.417-2.034.629-3.114.629zm.514-8.514l-6.03-6.031h2.607c.402 0 .727-.326.727-.728 0-.401-.325-.727-.727-.727H7.727C7.326 6 7 6.326 7 6.727v4.364c0 .402.326.727.727.727.402 0 .728-.325.728-.727V8.483l6.03 6.031c.143.142.329.213.515.213s.372-.07.514-.213c.284-.284.284-.744 0-1.028z" mask="url(#prefix__b)"/>
+      </g>
+    </svg>
+  
+
+        </div>
+        <div class="Product__icon-content good-p">
+          <p>Easy Returns For Domestic Orders. <a title="Returns" href="/pages/returns-info" target="_blank">Learn more.</a></p>
+        </div>
+        
       </div>
     </div>
   </div>
 </div>
-</section><section id="shopify-section-1623720449c13e6c85" class="shopify-section Hero">
 
-
-
-<div role="banner" class="Hero__banner">
-    <div class="Hero__content Hero__content--image ">
-      <picture class="aspect-content">
-        
-          <source
-            media="(min-width: 767px)"
-            data-srcset="//cdn.shopify.com/s/files/1/1381/0415/files/GA_0421_CINDERELLA_HP-HERO-DESKTOP_1920x1080_042221_BS1_OVERLAY_8ea735a8-b982-4607-96a2-c8073bf9b579_1600x.progressive.jpg?v=1635202334"
-          >
-          <img
-            class="h-full w-full"
-            data-src="//cdn.shopify.com/s/files/1/1381/0415/files/GA_0421_CINDERELLA_HP-HERO-MOBILE_960x1200_042221_BS1_OVERLAY_40da2d62-2557-43d1-a9a2-a9098a1332e6_768x.progressive.jpg?v=1635202396"
-            alt="CINDER-F*CKING-RELLA"
-          >
-        
-      </picture>
-      
-        <div class="top-vignette"></div>
-      
-    </div>
-    
-
-
-
-<div
-  class="Hero__header items-center text-center absolute my-24 lg:my-0 px-24"
-  
-    data-href="/collections/cinder-f-cking-rella"
-  
->
-  
-  
-    <h1 class="good-header-lg m-0 mb-12 lg:mb-6 ">
-      CINDER-F*CKING-RELLA
-    </h1>
-  
-  
-    <div class="good-p-lg mb-24 lg:mb-36">
-      <p>These sexy sell-outs are back in stock</p>
-    </div>
-  
-  
-    <div
-      class="inline-block"
-    >
-      
-
-<a href="/collections/cinder-f-cking-rella" class="inline-block good-btn" target=""><span>SHOP NOW</span></a>
-    </div>
-  
+  </div>
 </div>
-
 </div>
+  <div class="js-under-pdp-gallery w-full h-0"></div>
+  <div class="js-maker-enhance-static-mount" id="js-maker-static-enhance-v1-d3edb438-cab8-11ea-87d0-0242ac130003" style="height: auto; width: 100%;"></div>
+  
+<div class="Product__styledWithHeadline w-full text-center pt-60 pb-24">
+  <h2 class="good-subheader">Styled With</h2>
+</div>
+<div class="Product__styledWithImg">
+  <img class="w-full" data-src="https://cdn.accentuate.io/6620540043347/12389991448659/GSW0277-MK02-H21-B_1_3506-v1634864772886.jpg?2667x4000" alt="Styled with " />
+</div>
+<div class="Product__styledWith" id="js-pdp-sw"></div>
 
-</section><section id="shopify-section-1590602020784" class="shopify-section Blocks good-container py-30">
 
+<script id="styledWith" type="application/json">
+  {
+    "featuredImage": "https://cdn.accentuate.io/6620540043347/12389991448659/GSW0277-MK02-H21-B_1_3506-v1634864772886.jpg?2667x4000",
+    "products":[
+
+
+{
+  "title": "cinder-f*cking-rella thong",
+  "type": "shoes",
+  "product_id": "4746211197011",
+  "url": "/products/clear-block-heel-thong-silver001",
+  "image": "//cdn.shopify.com/s/files/1/1381/0415/products/GA077_SM01_01_300x.progressive.jpg?v=1632336374",
+  "alt": "model: Size 0 |",
+  "price": 19500,
+  "price_min": 19500,
+  "price_max": 19500,
+  "price_compare": 19500,
+  "color": "silver001",
+  "created_at":"2021-02-11 20:29:27 -0800",
+  "published_at":"2021-04-20 10:24:06 -0700",
+
+  "swatchFile": "//cdn.shopify.com/s/files/1/1381/0415/products/GA077V-SM01-SWATCH_30x.progressive.jpg?v=1618876023",
+  "swatchKey": "silver001","waitlist": false,
+  "productMsg": "false",
+  "preorder": false,
+  "relatedProductKey": "sku-ga077v",
+  "sizes": [{
+        "value": "4"
+      },{
+        "value": "5"
+      },{
+        "value": "5.5"
+      },{
+        "value": "6"
+      },{
+        "value": "6.5"
+      },{
+        "value": "7"
+      },{
+        "value": "7.5"
+      },{
+        "value": "8"
+      },{
+        "value": "8.5"
+      },{
+        "value": "9"
+      },{
+        "value": "9.5"
+      },{
+        "value": "10"
+      },{
+        "value": "10.5"
+      },{
+        "value": "11"
+      },{
+        "value": "11.5"
+      },{
+        "value": "12"
+      },{
+        "value": "13"
+      },{
+        "value": "14"
+      }],
+  "inseams": [{
+        "value": "x"
+      },{
+        "value": "e"
+      }],
+  "variants": [{
+      "id": "32401785520211",
+      "quantity": 6,
+      "size": "4",
+      "inseam": "x",
+      "color": "silver001"
+    },{
+      "id": "32401785880659",
+      "quantity": 0,
+      "size": "4",
+      "inseam": "e",
+      "color": "silver001"
+    },{
+      "id": "32401785552979",
+      "quantity": 10,
+      "size": "5",
+      "inseam": "x",
+      "color": "silver001"
+    },{
+      "id": "32401785913427",
+      "quantity": 0,
+      "size": "5",
+      "inseam": "e",
+      "color": "silver001"
+    },{
+      "id": "32401785585747",
+      "quantity": 12,
+      "size": "5-5",
+      "inseam": "x",
+      "color": "silver001"
+    },{
+      "id": "32401786142803",
+      "quantity": 1,
+      "size": "5-5",
+      "inseam": "e",
+      "color": "silver001"
+    },{
+      "id": "32401785618515",
+      "quantity": 2,
+      "size": "6",
+      "inseam": "x",
+      "color": "silver001"
+    },{
+      "id": "32401785946195",
+      "quantity": 0,
+      "size": "6",
+      "inseam": "e",
+      "color": "silver001"
+    },{
+      "id": "32401785651283",
+      "quantity": 8,
+      "size": "6-5",
+      "inseam": "x",
+      "color": "silver001"
+    },{
+      "id": "32401786175571",
+      "quantity": 0,
+      "size": "6-5",
+      "inseam": "e",
+      "color": "silver001"
+    },{
+      "id": "32401785684051",
+      "quantity": 24,
+      "size": "7",
+      "inseam": "x",
+      "color": "silver001"
+    },{
+      "id": "32401785978963",
+      "quantity": 6,
+      "size": "7",
+      "inseam": "e",
+      "color": "silver001"
+    },{
+      "id": "32401785716819",
+      "quantity": 21,
+      "size": "7-5",
+      "inseam": "x",
+      "color": "silver001"
+    },{
+      "id": "32401786208339",
+      "quantity": 8,
+      "size": "7-5",
+      "inseam": "e",
+      "color": "silver001"
+    },{
+      "id": "32401785749587",
+      "quantity": 24,
+      "size": "8",
+      "inseam": "x",
+      "color": "silver001"
+    },{
+      "id": "32401786011731",
+      "quantity": 8,
+      "size": "8",
+      "inseam": "e",
+      "color": "silver001"
+    },{
+      "id": "32401785782355",
+      "quantity": 29,
+      "size": "8-5",
+      "inseam": "x",
+      "color": "silver001"
+    },{
+      "id": "32401786241107",
+      "quantity": 1,
+      "size": "8-5",
+      "inseam": "e",
+      "color": "silver001"
+    },{
+      "id": "32401785815123",
+      "quantity": 20,
+      "size": "9",
+      "inseam": "x",
+      "color": "silver001"
+    },{
+      "id": "32401786273875",
+      "quantity": 0,
+      "size": "9",
+      "inseam": "e",
+      "color": "silver001"
+    },{
+      "id": "32401785847891",
+      "quantity": 13,
+      "size": "9-5",
+      "inseam": "x",
+      "color": "silver001"
+    },{
+      "id": "32401786306643",
+      "quantity": 0,
+      "size": "9-5",
+      "inseam": "e",
+      "color": "silver001"
+    },{
+      "id": "32401785290835",
+      "quantity": 12,
+      "size": "10",
+      "inseam": "x",
+      "color": "silver001"
+    },{
+      "id": "32401786044499",
+      "quantity": 0,
+      "size": "10",
+      "inseam": "e",
+      "color": "silver001"
+    },{
+      "id": "32401785323603",
+      "quantity": 4,
+      "size": "10-5",
+      "inseam": "x",
+      "color": "silver001"
+    },{
+      "id": "32401786339411",
+      "quantity": 0,
+      "size": "10-5",
+      "inseam": "e",
+      "color": "silver001"
+    },{
+      "id": "32401785356371",
+      "quantity": 6,
+      "size": "11",
+      "inseam": "x",
+      "color": "silver001"
+    },{
+      "id": "32401786372179",
+      "quantity": 0,
+      "size": "11",
+      "inseam": "e",
+      "color": "silver001"
+    },{
+      "id": "32401785389139",
+      "quantity": 2,
+      "size": "11-5",
+      "inseam": "x",
+      "color": "silver001"
+    },{
+      "id": "32401786404947",
+      "quantity": 0,
+      "size": "11-5",
+      "inseam": "e",
+      "color": "silver001"
+    },{
+      "id": "32401785421907",
+      "quantity": 10,
+      "size": "12",
+      "inseam": "x",
+      "color": "silver001"
+    },{
+      "id": "32401786077267",
+      "quantity": 0,
+      "size": "12",
+      "inseam": "e",
+      "color": "silver001"
+    },{
+      "id": "32401785454675",
+      "quantity": 8,
+      "size": "13",
+      "inseam": "x",
+      "color": "silver001"
+    },{
+      "id": "32401786437715",
+      "quantity": 0,
+      "size": "13",
+      "inseam": "e",
+      "color": "silver001"
+    },{
+      "id": "32401785487443",
+      "quantity": 3,
+      "size": "14",
+      "inseam": "x",
+      "color": "silver001"
+    },{
+      "id": "32401786110035",
+      "quantity": 0,
+      "size": "14",
+      "inseam": "e",
+      "color": "silver001"
+    }]
+}
+
+
+
+
+]
+  }
+</script>
 
   
-    
 
-  <a href="/collections/womens-tops" class="Block Block--twoUp">
-    <div class="Block__img-wrap">
-      <picture class="aspect-content">
-        <source media="(max-width: 768px)" data-srcset="//cdn.shopify.com/s/files/1/1381/0415/files/TOPS_2-UP_960x768_082021_BS1_768x.progressive.jpg?v=1629491752">
-        <img
-        data-src="//cdn.shopify.com/s/files/1/1381/0415/files/TOPS_2-UP_960x768_082021_BS1_1500x.progressive.jpg?v=1629491752"
-        alt="TOPS"
-        >
-      </picture>
-      
-        <div class="bottom-vignette"></div>
-      
-    </div>
-    <div class="absolute w-full h-full top-0 left-0 flex flex-col items-start justify-end text-white p-12 lg:p-24">
-      
-        <h2 class="good-header-sm mb-6">TOPS</h2>
-      
-      
-        <p class="good-p">The perfect partner to denim</p>
-      
-      
-        <button role="button" type="button" class="good-btn mt-24 lg:mt-36">
-          Shop Now
-        </button>
-      
-    </div>
-  </a>
-
-
-
-  
-
-  
-    
-
-  <a href="/collections/leather" class="Block Block--twoUp">
-    <div class="Block__img-wrap">
-      <picture class="aspect-content">
-        <source media="(max-width: 768px)" data-srcset="//cdn.shopify.com/s/files/1/1381/0415/files/GA_BTL_2-UP_960x768_101321_BS1_aa913ca4-3413-44a4-9c8a-1a3a3cd1e91a_768x.progressive.jpg?v=1635202293">
-        <img
-        data-src="//cdn.shopify.com/s/files/1/1381/0415/files/GA_BTL_2-UP_960x768_101321_BS1_aa913ca4-3413-44a4-9c8a-1a3a3cd1e91a_1500x.progressive.jpg?v=1635202293"
-        alt="BETTER THAN LEATHER"
-        >
-      </picture>
-      
-        <div class="bottom-vignette"></div>
-      
-    </div>
-    <div class="absolute w-full h-full top-0 left-0 flex flex-col items-start justify-end text-white p-12 lg:p-24">
-      
-        <h2 class="good-header-sm mb-6">BETTER THAN LEATHER</h2>
-      
-      
-        <p class="good-p">Insanely comfortable. Sexy AF</p>
-      
-      
-        <button role="button" type="button" class="good-btn mt-24 lg:mt-36">
-          Shop Now
-        </button>
-      
-    </div>
-  </a>
-
-
-
-  
-</section><div id="shopify-section-163545138153da4cae" class="shopify-section searchspring-recommendations-home">
   <!-- START SEARCHSPRING   -->
-  <script type="searchspring/personalized-recommendations" profile="home"></script>
-  <script type="searchspring/personalized-recommendations" profile="mobile-home"></script>
+  <div class="Product__upsell">
+    <script type="searchspring/personalized-recommendations" profile="customers-also-viewed">
+      seed = ['GSW0277-MK02-0']
+    </script>
+  </div>
   <!-- END SEARCHSPRING   -->
 
 
 
+<div class="yotpo yotpo-main-widget good-container" 
+     data-yotpo-reviews-main
+     data-product-id="6620540043347" 
+     data-name="METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002" 
+     data-url="https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002" 
+     data-image-url="//cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_5_0156_large.jpg%3Fv=1634688139" 
+     data-price=""
+     data-currency=“USD” data-description=“&lt;p&gt;Introducing the Metallic Foil Cut Out One Piece&lt;/p&gt;
+&lt;ul type=&quot;disc&quot;&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Cut out one piece monokini&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Super high cut on legs (90&#39;s throwback) &lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Medium cheeky coverage at butt &lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Adjustable support at top &lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Super high shine metallic foil &lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;White gold color&lt;/li&gt;
+&lt;/ul&gt;“>
 
-</div><section id="shopify-section-1619740402aa2534f5" class="shopify-section Hero">
 
 
 
-<div role="banner" class="Hero__banner">
-    <div class="Hero__content Hero__content--image ">
-      <picture class="aspect-content">
-        
-          <source
-            media="(min-width: 767px)"
-            data-srcset="//cdn.shopify.com/s/files/1/1381/0415/files/GA_OPEN_CASTING_HP-HERO-DESKTOP_1920x1080_101221_BS1_1600x.progressive.jpg?v=1634146590"
-          >
-          <img
-            class="h-full w-full"
-            data-src="//cdn.shopify.com/s/files/1/1381/0415/files/GA_OPENCASTING_HP-HERO-MOBILE_960x1200_101221_BS1_768x.progressive.jpg?v=1634146604"
-            alt="decorative image"
-          >
-        
-      </picture>
-      
-        <div class="top-vignette"></div>
-      
-    </div>
+
+
+
+</div>
+</div>
+
+<!-- Klaviyo Web Tracking -->
+<script type="text/javascript">
+  const price = "<span class='bfx-price bfx-hide-onload bfx-make-visible'>$85.00</span>";
+  const productPrice = price.replace("<span>",'').replace("</span>", '');
+  const comparePrice = "<span class='bfx-price bfx-hide-onload bfx-make-visible'>$85.00</span>";
+  const productComparePrice = comparePrice.replace("<span>",'').replace("</span>", '');
+  var _learnq = _learnq || [];
+  let item = {
+    Name: "METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002",
+    ProductID: 6620540043347,
+    Categories: ["$99 Best Sellers","ACQUISITION - 20% OFF FIRST ORDER","All clothing","All Items (KP)","Apparel and Shoes","Coming Soon","COURTNEY KERR","Emma's Favorites","Full Price","Good Swim","HIDDEN","INTERNATIONAL ACQUISITION - 15% OFF","INTERNATIONAL ACQUISITION - 20% OFF","Non-Final-Sale","Non-Gift Card","Plus Best Sellers","PROMOTIONS","Shop All","STSQ | Campbell Hunt Puckett","STSQ | Charmaine Charmant","STSQ | Christina Tarabishy","STSQ | Clare Crawley","STSQ | Jasmine Morris","STSQ | JESS SOUTHERN","STSQ | Lisa Morris","STSQ | LOREN HAMILTON","STSQ | MADISON MESSER","STSQ | Olivia Zapo","STSQ | Victoria Paul","Student Beans 20% off","Styles under $100","survey offer","Swim One-Pieces","TARYN TRULY"],
+    ImageURL: "https://cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_5_0156_300x.jpg?v=1634688139",
+    URL: "https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002",
+    Brand: "GOOD AMERICAN",
+    Price: productPrice,
+    CompareAtPrice: productComparePrice
+  };
+
+  _learnq.push(['track', 'Viewed Product', item]);
+
+  _learnq.push(['trackViewedItem', {
+    Title: item.Name,
+    ItemId: item.ProductID,
+    Categories: item.Categories,
+    ImageUrl: item.ImageURL,
+    Url: item.URL,
+    Metadata: {
+      Brand: item.Brand,
+      Price: item.Price,
+      CompareAtPrice: item.CompareAtPrice
+    }
+  }]);
+
+  // Klaviyo ATC Tracking
+  const atcBtn = document.getElementById('js-addToCart');
+  const sizeBtn = document.querySelector('.Product__option--size .js-select-toggle');
+  const inseamBtn = document.querySelector('[data-inseam-option-btn]');
+
+  atcBtn.addEventListener('click', () => {
+    let inseam = '';
+    if (inseamBtn) {
+      inseam = inseamBtn.innerText;
+      item["Inseam"] = inseam;
+    }
+    let size = sizeBtn.innerText;
+    item["Size"] = size;
+    _learnq.push(['track', 'Add To Cart', item]);
+  });
+</script>
+
+
+<script type="application/json" id="js-pdp-json">
+  {"id":6620540043347,"title":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002","handle":"ruched-cut-out-one-pc-metallic-mink-foil002","description":"\u003cp\u003eIntroducing the Metallic Foil Cut Out One Piece\u003c\/p\u003e\n\u003cul type=\"disc\"\u003e\n\u003cli style=\"font-weight: 400;\"\u003eCut out one piece monokini\u003c\/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003eSuper high cut on legs (90's throwback) \u003c\/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003eMedium cheeky coverage at butt \u003c\/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003eAdjustable support at top \u003c\/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003eSuper high shine metallic foil \u003c\/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003eWhite gold color\u003c\/li\u003e\n\u003c\/ul\u003e","published_at":"2021-10-21T10:17:22-07:00","created_at":"2021-09-29T17:06:35-07:00","vendor":"GOOD AMERICAN","type":"GOOD SWIM","tags":["Apparel Size:0 | XS","Apparel Size:1 | S","Apparel Size:3 | L","Apparel Size:5 | 2XL","Apparel Size:6 | 3XL","dropped:2021\/10\/28","full-price","metallic foil-swim","SKU:GSW0183","SKU:GSW0277","status-live","swim-one-piece","swimwear"],"price":8500,"price_min":8500,"price_max":8500,"available":true,"price_varies":false,"compare_at_price":8500,"compare_at_price_min":8500,"compare_at_price_max":8500,"compare_at_price_varies":false,"variants":[{"id":39467668734035,"title":"MINK FOIL002 \/ 0","option1":"MINK FOIL002","option2":"0","option3":null,"sku":"GSW0277-MK02-0","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 0","public_title":"MINK FOIL002 \/ 0","options":["MINK FOIL002","0"],"price":8500,"weight":454,"compare_at_price":8500,"inventory_quantity":6,"inventory_management":"shopify","inventory_policy":"deny","barcode":"019624233022","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39467668766803,"title":"MINK FOIL002 \/ 1","option1":"MINK FOIL002","option2":"1","option3":null,"sku":"GSW0277-MK02-1","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 1","public_title":"MINK FOIL002 \/ 1","options":["MINK FOIL002","1"],"price":8500,"weight":454,"compare_at_price":8500,"inventory_quantity":19,"inventory_management":"shopify","inventory_policy":"deny","barcode":"019624233039","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39467668832339,"title":"MINK FOIL002 \/ 2","option1":"MINK FOIL002","option2":"2","option3":null,"sku":"GSW0277-MK02-2","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 2","public_title":"MINK FOIL002 \/ 2","options":["MINK FOIL002","2"],"price":8500,"weight":454,"compare_at_price":8500,"inventory_quantity":28,"inventory_management":"shopify","inventory_policy":"deny","barcode":"019624233046","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39467668897875,"title":"MINK FOIL002 \/ 3","option1":"MINK FOIL002","option2":"3","option3":null,"sku":"GSW0277-MK02-3","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 3","public_title":"MINK FOIL002 \/ 3","options":["MINK FOIL002","3"],"price":8500,"weight":454,"compare_at_price":8500,"inventory_quantity":21,"inventory_management":"shopify","inventory_policy":"deny","barcode":"019624233053","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39467668930643,"title":"MINK FOIL002 \/ 4","option1":"MINK FOIL002","option2":"4","option3":null,"sku":"GSW0277-MK02-4","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 4","public_title":"MINK FOIL002 \/ 4","options":["MINK FOIL002","4"],"price":8500,"weight":454,"compare_at_price":8500,"inventory_quantity":11,"inventory_management":"shopify","inventory_policy":"deny","barcode":"019624233060","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39467668963411,"title":"MINK FOIL002 \/ 5","option1":"MINK FOIL002","option2":"5","option3":null,"sku":"GSW0277-MK02-5","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 5","public_title":"MINK FOIL002 \/ 5","options":["MINK FOIL002","5"],"price":8500,"weight":454,"compare_at_price":8500,"inventory_quantity":5,"inventory_management":"shopify","inventory_policy":"deny","barcode":"019624233077","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39467668996179,"title":"MINK FOIL002 \/ 6","option1":"MINK FOIL002","option2":"6","option3":null,"sku":"GSW0277-MK02-6","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 6","public_title":"MINK FOIL002 \/ 6","options":["MINK FOIL002","6"],"price":8500,"weight":454,"compare_at_price":8500,"inventory_quantity":3,"inventory_management":"shopify","inventory_policy":"deny","barcode":"019624233084","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39467669028947,"title":"MINK FOIL002 \/ 7","option1":"MINK FOIL002","option2":"7","option3":null,"sku":"GSW0277-MK02-7","requires_shipping":true,"taxable":true,"featured_image":null,"available":false,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 7","public_title":"MINK FOIL002 \/ 7","options":["MINK FOIL002","7"],"price":8500,"weight":454,"compare_at_price":8500,"inventory_quantity":0,"inventory_management":"shopify","inventory_policy":"deny","barcode":"019624233091","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39467669061715,"title":"MINK FOIL002 \/ 8","option1":"MINK FOIL002","option2":"8","option3":null,"sku":"GSW0277-MK02-8","requires_shipping":true,"taxable":true,"featured_image":null,"available":false,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 8","public_title":"MINK FOIL002 \/ 8","options":["MINK FOIL002","8"],"price":8500,"weight":454,"compare_at_price":8500,"inventory_quantity":0,"inventory_management":"shopify","inventory_policy":"deny","barcode":"019624233107","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139","\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_4_0147.jpg?v=1634688137","\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_1_1241.jpg?v=1634688136","\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_2_0134.jpg?v=1634688137","\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_3_0140.jpg?v=1634688137","\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-B_5_3542.jpg?v=1634688136","\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-B_2_3517.jpg?v=1634688138","\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-B_1_3506.jpg?v=1634688138","\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-B_3_3526.jpg?v=1634688137","\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-B_4_3539.jpg?v=1634688136","\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-C_5_1501.jpg?v=1634688139","\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-C_1_1469.jpg?v=1634688138","\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-C_2_1480.jpg?v=1634688139","\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-C_3_1487.jpg?v=1634688139","\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-C_4_1492.jpg?v=1634688138","\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-SWATCH.jpg?v=1634688136"],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139","options":["Color","Size"],"media":[{"alt":"model: Size 0 |","id":21467418558547,"position":1,"preview_image":{"aspect_ratio":0.667,"height":4000,"width":2667,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139"},"aspect_ratio":0.667,"height":4000,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139","width":2667},{"alt":"model: Size 0 |","id":21467418525779,"position":2,"preview_image":{"aspect_ratio":0.667,"height":4000,"width":2667,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_4_0147.jpg?v=1634688137"},"aspect_ratio":0.667,"height":4000,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_4_0147.jpg?v=1634688137","width":2667},{"alt":"model: Size 0 |","id":21467418427475,"position":3,"preview_image":{"aspect_ratio":0.667,"height":4000,"width":2667,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_1_1241.jpg?v=1634688136"},"aspect_ratio":0.667,"height":4000,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_1_1241.jpg?v=1634688136","width":2667},{"alt":"model: Size 0 |","id":21467418460243,"position":4,"preview_image":{"aspect_ratio":0.667,"height":4000,"width":2667,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_2_0134.jpg?v=1634688137"},"aspect_ratio":0.667,"height":4000,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_2_0134.jpg?v=1634688137","width":2667},{"alt":"model: Size 0 |","id":21467418493011,"position":5,"preview_image":{"aspect_ratio":0.667,"height":4000,"width":2667,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_3_0140.jpg?v=1634688137"},"aspect_ratio":0.667,"height":4000,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-A_3_0140.jpg?v=1634688137","width":2667},{"alt":"model: Size 8 |","id":21467418722387,"position":6,"preview_image":{"aspect_ratio":0.667,"height":4000,"width":2667,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-B_5_3542.jpg?v=1634688136"},"aspect_ratio":0.667,"height":4000,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-B_5_3542.jpg?v=1634688136","width":2667},{"alt":"model: Size 8 |","id":21467418624083,"position":7,"preview_image":{"aspect_ratio":0.667,"height":4000,"width":2667,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-B_2_3517.jpg?v=1634688138"},"aspect_ratio":0.667,"height":4000,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-B_2_3517.jpg?v=1634688138","width":2667},{"alt":"model: Size 8 |","id":21467418591315,"position":8,"preview_image":{"aspect_ratio":0.667,"height":4000,"width":2667,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-B_1_3506.jpg?v=1634688138"},"aspect_ratio":0.667,"height":4000,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-B_1_3506.jpg?v=1634688138","width":2667},{"alt":"model: Size 8 |","id":21467418656851,"position":9,"preview_image":{"aspect_ratio":0.667,"height":4000,"width":2667,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-B_3_3526.jpg?v=1634688137"},"aspect_ratio":0.667,"height":4000,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-B_3_3526.jpg?v=1634688137","width":2667},{"alt":"model: Size 8 |","id":21467418689619,"position":10,"preview_image":{"aspect_ratio":0.667,"height":4000,"width":2667,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-B_4_3539.jpg?v=1634688136"},"aspect_ratio":0.667,"height":4000,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-B_4_3539.jpg?v=1634688136","width":2667},{"alt":"model: Size 16 |","id":21467418886227,"position":11,"preview_image":{"aspect_ratio":0.667,"height":4000,"width":2667,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-C_5_1501.jpg?v=1634688139"},"aspect_ratio":0.667,"height":4000,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-C_5_1501.jpg?v=1634688139","width":2667},{"alt":"model: Size 16 |","id":21467418755155,"position":12,"preview_image":{"aspect_ratio":0.667,"height":4000,"width":2667,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-C_1_1469.jpg?v=1634688138"},"aspect_ratio":0.667,"height":4000,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-C_1_1469.jpg?v=1634688138","width":2667},{"alt":"model: Size 16 |","id":21467418787923,"position":13,"preview_image":{"aspect_ratio":0.667,"height":4000,"width":2667,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-C_2_1480.jpg?v=1634688139"},"aspect_ratio":0.667,"height":4000,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-C_2_1480.jpg?v=1634688139","width":2667},{"alt":"model: Size 16 |","id":21467418820691,"position":14,"preview_image":{"aspect_ratio":0.667,"height":4000,"width":2667,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-C_3_1487.jpg?v=1634688139"},"aspect_ratio":0.667,"height":4000,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-C_3_1487.jpg?v=1634688139","width":2667},{"alt":"model: Size 16 |","id":21467418853459,"position":15,"preview_image":{"aspect_ratio":0.667,"height":4000,"width":2667,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-C_4_1492.jpg?v=1634688138"},"aspect_ratio":0.667,"height":4000,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-C_4_1492.jpg?v=1634688138","width":2667},{"alt":"| swatch: mink foil002","id":21467418918995,"position":16,"preview_image":{"aspect_ratio":1.0,"height":40,"width":40,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-SWATCH.jpg?v=1634688136"},"aspect_ratio":1.0,"height":40,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/products\/GSW0277-MK02-H21-SWATCH.jpg?v=1634688136","width":40}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cp\u003eIntroducing the Metallic Foil Cut Out One Piece\u003c\/p\u003e\n\u003cul type=\"disc\"\u003e\n\u003cli style=\"font-weight: 400;\"\u003eCut out one piece monokini\u003c\/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003eSuper high cut on legs (90's throwback) \u003c\/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003eMedium cheeky coverage at butt \u003c\/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003eAdjustable support at top \u003c\/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003eSuper high shine metallic foil \u003c\/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003eWhite gold color\u003c\/li\u003e\n\u003c\/ul\u003e"}
+</script>
+
+
+</div><script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002",
+  "url": "https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002",
+  
     
-
-
-
-<div
-  class="Hero__header items-center text-center absolute my-24 lg:my-0 px-24"
+    "image": [
+      "https://cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_5_0156_2667x.jpg?v=1634688139"
+    ],
   
-    data-href="/pages/open-casting-2021"
+  "description": "Introducing the Metallic Foil Cut Out One Piece\n\nCut out one piece monokini\nSuper high cut on legs (90's throwback) \nMedium cheeky coverage at butt \nAdjustable support at top \nSuper high shine metallic foil \nWhite gold color\n",
   
->
+  "brand": {
+    "@type": "Thing",
+    "name": "GOOD AMERICAN"
+  },
   
-  
-    <h1 class="good-header-lg m-0 mb-12 lg:mb-6 ">
-      BE THE FACE OF MAUA
-    </h1>
-  
-  
-    <div class="good-p-lg mb-24 lg:mb-36">
-      <p>In Partnership with IMG Models</p>
-    </div>
-  
-  
-    <div
-      class="inline-block"
-    >
+    "offers": [
       
-
-<a href="/pages/open-casting-2021" class="inline-block good-btn" target=""><span>LEARN MORE</span></a>
-    </div>
+        {
+          "@type" : "Offer",
+          "availability" : "http://schema.org/InStock",
+          "price" : "85.0",
+          "priceCurrency" : "USD",
+          "url" : "https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467668734035",
+          "itemOffered" :
+          {
+              "@type" : "Product",
+              
+              
+                "name" : "MINK FOIL002 / 0",
+              
+              
+                "sku": "GSW0277-MK02-0",
+              
+              
+                "weight": {
+                  "@type": "QuantitativeValue",
+                  
+                    "unitCode": "lb",
+                  
+                  "value": "1.0 lb"
+                },
+              
+              "url": "https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467668734035"
+          }
+        },
+      
+        {
+          "@type" : "Offer",
+          "availability" : "http://schema.org/InStock",
+          "price" : "85.0",
+          "priceCurrency" : "USD",
+          "url" : "https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467668766803",
+          "itemOffered" :
+          {
+              "@type" : "Product",
+              
+              
+                "name" : "MINK FOIL002 / 1",
+              
+              
+                "sku": "GSW0277-MK02-1",
+              
+              
+                "weight": {
+                  "@type": "QuantitativeValue",
+                  
+                    "unitCode": "lb",
+                  
+                  "value": "1.0 lb"
+                },
+              
+              "url": "https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467668766803"
+          }
+        },
+      
+        {
+          "@type" : "Offer",
+          "availability" : "http://schema.org/InStock",
+          "price" : "85.0",
+          "priceCurrency" : "USD",
+          "url" : "https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467668832339",
+          "itemOffered" :
+          {
+              "@type" : "Product",
+              
+              
+                "name" : "MINK FOIL002 / 2",
+              
+              
+                "sku": "GSW0277-MK02-2",
+              
+              
+                "weight": {
+                  "@type": "QuantitativeValue",
+                  
+                    "unitCode": "lb",
+                  
+                  "value": "1.0 lb"
+                },
+              
+              "url": "https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467668832339"
+          }
+        },
+      
+        {
+          "@type" : "Offer",
+          "availability" : "http://schema.org/InStock",
+          "price" : "85.0",
+          "priceCurrency" : "USD",
+          "url" : "https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467668897875",
+          "itemOffered" :
+          {
+              "@type" : "Product",
+              
+              
+                "name" : "MINK FOIL002 / 3",
+              
+              
+                "sku": "GSW0277-MK02-3",
+              
+              
+                "weight": {
+                  "@type": "QuantitativeValue",
+                  
+                    "unitCode": "lb",
+                  
+                  "value": "1.0 lb"
+                },
+              
+              "url": "https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467668897875"
+          }
+        },
+      
+        {
+          "@type" : "Offer",
+          "availability" : "http://schema.org/InStock",
+          "price" : "85.0",
+          "priceCurrency" : "USD",
+          "url" : "https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467668930643",
+          "itemOffered" :
+          {
+              "@type" : "Product",
+              
+              
+                "name" : "MINK FOIL002 / 4",
+              
+              
+                "sku": "GSW0277-MK02-4",
+              
+              
+                "weight": {
+                  "@type": "QuantitativeValue",
+                  
+                    "unitCode": "lb",
+                  
+                  "value": "1.0 lb"
+                },
+              
+              "url": "https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467668930643"
+          }
+        },
+      
+        {
+          "@type" : "Offer",
+          "availability" : "http://schema.org/InStock",
+          "price" : "85.0",
+          "priceCurrency" : "USD",
+          "url" : "https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467668963411",
+          "itemOffered" :
+          {
+              "@type" : "Product",
+              
+              
+                "name" : "MINK FOIL002 / 5",
+              
+              
+                "sku": "GSW0277-MK02-5",
+              
+              
+                "weight": {
+                  "@type": "QuantitativeValue",
+                  
+                    "unitCode": "lb",
+                  
+                  "value": "1.0 lb"
+                },
+              
+              "url": "https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467668963411"
+          }
+        },
+      
+        {
+          "@type" : "Offer",
+          "availability" : "http://schema.org/InStock",
+          "price" : "85.0",
+          "priceCurrency" : "USD",
+          "url" : "https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467668996179",
+          "itemOffered" :
+          {
+              "@type" : "Product",
+              
+              
+                "name" : "MINK FOIL002 / 6",
+              
+              
+                "sku": "GSW0277-MK02-6",
+              
+              
+                "weight": {
+                  "@type": "QuantitativeValue",
+                  
+                    "unitCode": "lb",
+                  
+                  "value": "1.0 lb"
+                },
+              
+              "url": "https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467668996179"
+          }
+        },
+      
+        {
+          "@type" : "Offer",
+          "availability" : "http://schema.org/InStock",
+          "price" : "85.0",
+          "priceCurrency" : "USD",
+          "url" : "https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467669028947",
+          "itemOffered" :
+          {
+              "@type" : "Product",
+              
+              
+                "name" : "MINK FOIL002 / 7",
+              
+              
+                "sku": "GSW0277-MK02-7",
+              
+              
+                "weight": {
+                  "@type": "QuantitativeValue",
+                  
+                    "unitCode": "lb",
+                  
+                  "value": "1.0 lb"
+                },
+              
+              "url": "https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467669028947"
+          }
+        },
+      
+        {
+          "@type" : "Offer",
+          "availability" : "http://schema.org/InStock",
+          "price" : "85.0",
+          "priceCurrency" : "USD",
+          "url" : "https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467669061715",
+          "itemOffered" :
+          {
+              "@type" : "Product",
+              
+              
+                "name" : "MINK FOIL002 / 8",
+              
+              
+                "sku": "GSW0277-MK02-8",
+              
+              
+                "weight": {
+                  "@type": "QuantitativeValue",
+                  
+                    "unitCode": "lb",
+                  
+                  "value": "1.0 lb"
+                },
+              
+              "url": "https://www.goodamerican.com/products/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467669061715"
+          }
+        }
+      
+    ]
   
+}
+</script><!-- START Gorgias -->
+<div id="gorgias-chat" >
+  <script>
+    window.gorgiasChatParameters = {};
+    var gorgiasChatInterval = window.setInterval(function () {
+      var iframe = document.querySelector('#gorgias-web-messenger-container');
+        if (iframe) {
+          var head = iframe.contentWindow.document.querySelector('head')
+          if (head.children.length) {
+            window.clearInterval(gorgiasChatInterval); // this line breaks out of the loop - make sure it's not deleted.
+            var styles = document.createElement('style');
+            styles.textContent = '.logo-wrapper{display: none}'
+            head.appendChild(styles)
+          }
+        }
+    }, 100);
+  </script>
+  <script src="https://config.gorgias.io/production/r1WE86r1wlxJ4Mvg/chat/r1WE86rbZl16J4Mv.js" defer></script>
 </div>
-
-</div>
-
-</section><div id="shopify-section-1591132685994" class="shopify-section Spacer">
-
-
-  <div class="pb-30"></div>
-</div><section id="shopify-section-1591127589897" class="shopify-section bg-springWood px-12 py-30 mt-30">
-
-<div class="good-container">
-<div class="flex items-center w-full justify-between p-12 text-black">
-  <h4 class="good-header-sm">
-    @maua
-  </h4>
-  <a href="" target="_blank">
-    
-
-<a href="" class="inline-block good-link-underline-sm" target=""><span></span></a>
-  </a>
-</div>
-<script src="//foursixty.com/media/scripts/fs.slider.v2.5.js" data-feed-id="good-american" data-open-links-in-same-page="false" data-theme="slider_v2_5" data-cell-size="25%"></script>
-</div>
-
-<style>.fs-has-links::after {  padding: 5px 7.5px; background-color: #fff; color: rgba(0,0,0,0.8); content: "SHOP IT";  }.fs-wrapper { height: auto } .fs-entry-container { height: 0 !important; width: 25% !important; padding-top: 25% !important; }div.fs-text-container .fs-entry-date, div.fs-detail-container .fs-post-info, div.fs-wrapper div.fs-has-links::after, .fs-text-product,.fs-wrapper div.fs-text-container * {color:#fff}.fs-wrapper div.fs-text-container {background-color:rgba(0,0,0,0.8); margin: 0px}div.fs-entry-date{display:none}div.fs-service-icon{display:none}div.fs-entry-title{display:none}.fs-wrapper div.fs-timeline-entry{ margin: 12px }@media only screen and (max-width: 768px){ .fs-mobile div.fs-entry-container, .fs-desktop div.fs-entry-container{ height: 0; width: calc(100% / 2) !important; padding-top: calc(100% / 2) !important;}.fs-wrapper div.fs-timeline-entry{ margin: 6px }}</style>
-</section><!-- END content_for_index -->
+<!-- END Gorgias -->
 
       
     </main>
@@ -4500,7 +4962,7 @@ for (var attr in meta) {
               </li>
             
               <li class="mb-12">
-                <a href="mailto:press@maua.com" class="good-p text-black">
+                <a href="mailto:press@goodamerican.com" class="good-p text-black">
                   Press Inquiries
                 </a>
               </li>
@@ -4622,13 +5084,29 @@ for (var attr in meta) {
 <!-- END Klaviyo Web Tracking -->
 
 <!-- START Klarna Theme Globals -->
-<script>window.KlarnaThemeGlobals={};</script>
+<script>window.KlarnaThemeGlobals={}; window.KlarnaThemeGlobals.data_purchase_amount=8500;window.KlarnaThemeGlobals.productVariants=[{"id":39467668734035,"title":"MINK FOIL002 \/ 0","option1":"MINK FOIL002","option2":"0","option3":null,"sku":"GSW0277-MK02-0","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 0","public_title":"MINK FOIL002 \/ 0","options":["MINK FOIL002","0"],"price":8500,"weight":454,"compare_at_price":8500,"inventory_quantity":6,"inventory_management":"shopify","inventory_policy":"deny","barcode":"019624233022","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39467668766803,"title":"MINK FOIL002 \/ 1","option1":"MINK FOIL002","option2":"1","option3":null,"sku":"GSW0277-MK02-1","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 1","public_title":"MINK FOIL002 \/ 1","options":["MINK FOIL002","1"],"price":8500,"weight":454,"compare_at_price":8500,"inventory_quantity":19,"inventory_management":"shopify","inventory_policy":"deny","barcode":"019624233039","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39467668832339,"title":"MINK FOIL002 \/ 2","option1":"MINK FOIL002","option2":"2","option3":null,"sku":"GSW0277-MK02-2","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 2","public_title":"MINK FOIL002 \/ 2","options":["MINK FOIL002","2"],"price":8500,"weight":454,"compare_at_price":8500,"inventory_quantity":28,"inventory_management":"shopify","inventory_policy":"deny","barcode":"019624233046","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39467668897875,"title":"MINK FOIL002 \/ 3","option1":"MINK FOIL002","option2":"3","option3":null,"sku":"GSW0277-MK02-3","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 3","public_title":"MINK FOIL002 \/ 3","options":["MINK FOIL002","3"],"price":8500,"weight":454,"compare_at_price":8500,"inventory_quantity":21,"inventory_management":"shopify","inventory_policy":"deny","barcode":"019624233053","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39467668930643,"title":"MINK FOIL002 \/ 4","option1":"MINK FOIL002","option2":"4","option3":null,"sku":"GSW0277-MK02-4","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 4","public_title":"MINK FOIL002 \/ 4","options":["MINK FOIL002","4"],"price":8500,"weight":454,"compare_at_price":8500,"inventory_quantity":11,"inventory_management":"shopify","inventory_policy":"deny","barcode":"019624233060","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39467668963411,"title":"MINK FOIL002 \/ 5","option1":"MINK FOIL002","option2":"5","option3":null,"sku":"GSW0277-MK02-5","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 5","public_title":"MINK FOIL002 \/ 5","options":["MINK FOIL002","5"],"price":8500,"weight":454,"compare_at_price":8500,"inventory_quantity":5,"inventory_management":"shopify","inventory_policy":"deny","barcode":"019624233077","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39467668996179,"title":"MINK FOIL002 \/ 6","option1":"MINK FOIL002","option2":"6","option3":null,"sku":"GSW0277-MK02-6","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 6","public_title":"MINK FOIL002 \/ 6","options":["MINK FOIL002","6"],"price":8500,"weight":454,"compare_at_price":8500,"inventory_quantity":3,"inventory_management":"shopify","inventory_policy":"deny","barcode":"019624233084","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39467669028947,"title":"MINK FOIL002 \/ 7","option1":"MINK FOIL002","option2":"7","option3":null,"sku":"GSW0277-MK02-7","requires_shipping":true,"taxable":true,"featured_image":null,"available":false,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 7","public_title":"MINK FOIL002 \/ 7","options":["MINK FOIL002","7"],"price":8500,"weight":454,"compare_at_price":8500,"inventory_quantity":0,"inventory_management":"shopify","inventory_policy":"deny","barcode":"019624233091","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39467669061715,"title":"MINK FOIL002 \/ 8","option1":"MINK FOIL002","option2":"8","option3":null,"sku":"GSW0277-MK02-8","requires_shipping":true,"taxable":true,"featured_image":null,"available":false,"name":"METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002 - MINK FOIL002 \/ 8","public_title":"MINK FOIL002 \/ 8","options":["MINK FOIL002","8"],"price":8500,"weight":454,"compare_at_price":8500,"inventory_quantity":0,"inventory_management":"shopify","inventory_policy":"deny","barcode":"019624233107","requires_selling_plan":false,"selling_plan_allocations":[]}];window.KlarnaThemeGlobals.documentCopy=document.cloneNode(true);</script>
 <!-- END Klarna Theme Globals -->
 
 <!-- Attentive Tag -->
 <script src="https://cdn.attn.tv/ga/dtag.js"></script>
 
 <!-- START SEARCHSPRING   -->
+
+  <!-- Searchspring IntelliSuggest Tracking -->
+  <script type="text/javascript" src="//cdn.searchspring.net/intellisuggest/is.min.js"></script>
+  <script type="text/javascript">
+    var ss_site_id = '5ojqb3';
+
+    try {
+      
+        var product_code = 'GSW0277-MK02-0';
+        IntelliSuggest.init({siteId: ss_site_id, context: 'Product/' + product_code, seed: product_code});
+        IntelliSuggest.viewItem({sku:product_code});
+      
+      
+    } catch(err) {}
+  </script>
+  <!-- END Searchspring IntelliSuggest -->
 
 
 <!-- END SEARCHSPRING   -->
@@ -4946,25 +5424,11 @@ function getValue(valueKey, data) {
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "@id": "https:\/\/www.goodamerican.com\/#website",
-    "url": "https://www.goodamerican.com",
-    "potentialAction": {
-        "@type": "SearchAction",
-        "target": "https://www.goodamerican.com/search?q={query}",
-        "query-input": "required name=query"
-    }
-}
-</script>
-
-<script type="application/ld+json">
-{
-    "@context": "https://schema.org",
     "@type": "Organization",
     "@id": "https:\/\/www.goodamerican.com\/#org",
-    "name": "MAUA",
+    "name": "GOOD AMERICAN",
     "url": "https://www.goodamerican.com",
-    "description": "Made by women, for women.  All bodies. All Sizes. No compromises.  Shop the collection of premium denim, activewear, bodysuits, swim, sweats, shoes \u0026 more from Maua. Designed for a curvier, sexier and stronger shape. All our products are available in a full size range that serve your curves.",
+    "description": "Made by women, for women.  All bodies. All Sizes. No compromises.  Shop the collection of premium denim, activewear, bodysuits, swim, sweats, shoes \u0026 more from Good American. Designed for a curvier, sexier and stronger shape. All our products are available in a full size range that serve your curves.",
     "telephone": "8883377823",
     "logo": "https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/t\/625\/assets\/logo_small.png?146409",
     "image": "https:\/\/cdn.shopify.com\/s\/files\/1\/1381\/0415\/t\/625\/assets\/logo_small.png?146409",
@@ -4977,6 +5441,117 @@ function getValue(valueKey, data) {
         "postalCode": "90016",
         "addressCountry": "United States"
     }
+}
+</script><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@id": "https:\/\/www.goodamerican.com\/products\/ruched-cut-out-one-pc-metallic-mink-foil002#json-ld-for-seo",
+  "@type": "Product",
+  "brand": {
+    "@type": "Brand",
+    "name": "GOOD AMERICAN"
+  },
+  "productID": "019624233022","sku": "GSW0277-MK02-0",
+  "mpn": "019624233022",
+  "gtin": "019624233022","gtin12": "019624233022","description": "Introducing the Metallic Foil Cut Out One Piece\n\nCut out one piece monokini\nSuper high cut on legs (90's throwback) \nMedium cheeky coverage at butt \nAdjustable support at top \nSuper high shine metallic foil \nWhite gold color\n",
+  "url": "https:\/\/www.goodamerican.com\/products\/ruched-cut-out-one-pc-metallic-mink-foil002",
+  "name": "METALLIC FOIL CUT OUT ONEPIECE | MINK FOIL002",
+  "image": "https://cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139",
+  "itemCondition": "https://schema.org/NewCondition","offers": [{
+    "@type": "Offer","price": "85.0",
+    "priceCurrency": "USD",
+    "priceValidUntil": "2022-01-30","itemCondition": "https://schema.org/NewCondition",
+    "url": "https:\/\/www.goodamerican.com\/products\/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467668734035",
+    "image": "https://cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139",
+    "sku": "GSW0277-MK02-0","mpn": "019624233022","availability": "https://schema.org/InStock",
+    "gtin": "019624233022"
+,
+    "gtin12": "019624233022"
+},{
+    "@type": "Offer","price": "85.0",
+    "priceCurrency": "USD",
+    "priceValidUntil": "2022-01-30","itemCondition": "https://schema.org/NewCondition",
+    "url": "https:\/\/www.goodamerican.com\/products\/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467668766803",
+    "image": "https://cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139",
+    "sku": "GSW0277-MK02-1","mpn": "019624233039","availability": "https://schema.org/InStock",
+    "gtin": "019624233039"
+,
+    "gtin12": "019624233039"
+},{
+    "@type": "Offer","price": "85.0",
+    "priceCurrency": "USD",
+    "priceValidUntil": "2022-01-30","itemCondition": "https://schema.org/NewCondition",
+    "url": "https:\/\/www.goodamerican.com\/products\/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467668832339",
+    "image": "https://cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139",
+    "sku": "GSW0277-MK02-2","mpn": "019624233046","availability": "https://schema.org/InStock",
+    "gtin": "019624233046"
+,
+    "gtin12": "019624233046"
+},{
+    "@type": "Offer","price": "85.0",
+    "priceCurrency": "USD",
+    "priceValidUntil": "2022-01-30","itemCondition": "https://schema.org/NewCondition",
+    "url": "https:\/\/www.goodamerican.com\/products\/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467668897875",
+    "image": "https://cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139",
+    "sku": "GSW0277-MK02-3","mpn": "019624233053","availability": "https://schema.org/InStock",
+    "gtin": "019624233053"
+,
+    "gtin12": "019624233053"
+},{
+    "@type": "Offer","price": "85.0",
+    "priceCurrency": "USD",
+    "priceValidUntil": "2022-01-30","itemCondition": "https://schema.org/NewCondition",
+    "url": "https:\/\/www.goodamerican.com\/products\/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467668930643",
+    "image": "https://cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139",
+    "sku": "GSW0277-MK02-4","mpn": "019624233060","availability": "https://schema.org/InStock",
+    "gtin": "019624233060"
+,
+    "gtin12": "019624233060"
+},{
+    "@type": "Offer","price": "85.0",
+    "priceCurrency": "USD",
+    "priceValidUntil": "2022-01-30","itemCondition": "https://schema.org/NewCondition",
+    "url": "https:\/\/www.goodamerican.com\/products\/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467668963411",
+    "image": "https://cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139",
+    "sku": "GSW0277-MK02-5","mpn": "019624233077","availability": "https://schema.org/InStock",
+    "gtin": "019624233077"
+,
+    "gtin12": "019624233077"
+},{
+    "@type": "Offer","price": "85.0",
+    "priceCurrency": "USD",
+    "priceValidUntil": "2022-01-30","itemCondition": "https://schema.org/NewCondition",
+    "url": "https:\/\/www.goodamerican.com\/products\/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467668996179",
+    "image": "https://cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139",
+    "sku": "GSW0277-MK02-6","mpn": "019624233084","availability": "https://schema.org/InStock",
+    "gtin": "019624233084"
+,
+    "gtin12": "019624233084"
+},{
+    "@type": "Offer","price": "85.0",
+    "priceCurrency": "USD",
+    "priceValidUntil": "2022-01-30","itemCondition": "https://schema.org/NewCondition",
+    "url": "https:\/\/www.goodamerican.com\/products\/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467669028947",
+    "image": "https://cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139",
+    "sku": "GSW0277-MK02-7","mpn": "019624233091","availability": "https://schema.org/OutOfStock",
+    "gtin": "019624233091"
+,
+    "gtin12": "019624233091"
+},{
+    "@type": "Offer","price": "85.0",
+    "priceCurrency": "USD",
+    "priceValidUntil": "2022-01-30","itemCondition": "https://schema.org/NewCondition",
+    "url": "https:\/\/www.goodamerican.com\/products\/ruched-cut-out-one-pc-metallic-mink-foil002?variant=39467669061715",
+    "image": "https://cdn.shopify.com/s/files/1/1381/0415/products/GSW0277-MK02-H21-A_5_0156.jpg?v=1634688139",
+    "sku": "GSW0277-MK02-8","mpn": "019624233107","availability": "https://schema.org/OutOfStock",
+    "gtin": "019624233107"
+,
+    "gtin12": "019624233107"
+}]
+
+
+  
+  
 }
 </script>
 
